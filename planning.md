@@ -104,11 +104,29 @@ Section-based chunking preserves natural document structure and typically produc
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:** 
-all-MiniLM-L6-v2 
+all-MiniLM-L6-v2 (via sentence-transformers). Embeddings are normalized to unit length and
+stored in a persistent ChromaDB collection configured for cosine distance. Chosen because it
+runs locally with no API key or rate limits, is small/fast (384-dim), and performs well on
+short, opinion-style English text like Reddit comments and housing-guide paragraphs.
 
 **Top-k:** 5
 
 **Production tradeoff reflection:**
+If cost weren't a constraint and this served real users, I'd weigh:
+- **Accuracy on domain text:** a larger model (e.g. `BAAI/bge-large-en-v1.5` or OpenAI
+  `text-embedding-3-large`) would better distinguish near-duplicate housing chunks — e.g.
+  separating "rent vs. convenience" from "maintenance complaints" — where MiniLM's 384-dim
+  vectors sometimes return topically-adjacent-but-not-exact results (my "finding roommates"
+  query topped out at distance 0.46 rather than <0.3).
+- **Context length:** MiniLM truncates at 256 tokens (~200 words), shorter than my 400–600-word
+  chunks, so the tail of each chunk isn't embedded. A long-context model (8k tokens) would embed
+  whole chunks and could let me use larger chunks without losing signal.
+- **Latency & ops:** local MiniLM is ~10ms/query with zero network; an API model adds round-trip
+  latency, a per-call bill, and a rate limit, but removes the need to host the model.
+- **Multilingual:** not needed here (corpus is English), but a multilingual model (e.g.
+  `paraphrase-multilingual-MiniLM`) would matter if I expanded to international-student sources.
+For this project the local MiniLM tradeoff is the right one: retrieval is already on-topic with
+top distances of 0.28–0.46, well under the 0.5 checkpoint threshold.
 
 ---
 
