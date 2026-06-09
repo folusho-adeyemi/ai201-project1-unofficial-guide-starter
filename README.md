@@ -80,8 +80,29 @@
      the mechanism. -->
 
 **System prompt grounding instruction:**
+The system prompt (`src/generate.py`, `SYSTEM_PROMPT`) *enforces* grounding rather than
+suggesting it. It tells `llama-3.3-70b-versatile`: "Answer using ONLY the information in the
+CONTEXT documents... Do NOT use any outside or prior knowledge," and "If the CONTEXT does not
+contain enough information to answer, reply with EXACTLY this sentence and nothing else: 'I don't
+have enough information on that.'" It also forbids inventing apartment names, prices, or sources,
+and requires citing the bracketed `[Source N]` label for each fact. Generation runs at
+`temperature=0.1` to keep the model close to the retrieved text.
+
+Two structural choices back up the prompt:
+1. **Distance gate (pre-LLM):** before calling the model, `ask()` checks the closest chunk's
+   cosine distance. If it exceeds `NO_MATCH_DISTANCE = 0.75`, the system returns the "not enough
+   information" message *without* an LLM call — so a question the corpus doesn't cover (e.g. "What
+   is the best pizza topping?") can't be answered from training knowledge at all.
+2. **Numbered, labeled context:** retrieved chunks are passed as `[Source N] <name>` blocks, so
+   the model's inline citations map to real documents.
 
 **How source attribution is surfaced in the response:**
+Attribution is guaranteed programmatically, not left to the LLM. After generation, `ask()`
+returns a `sources` list built from the retrieved chunks' stored metadata (`source_name`), in
+rank order, deduplicated. The Gradio UI (`app.py`) displays this list in a separate
+"Retrieved from (sources)" box beneath the answer. The model is *also* asked to cite `[Source N]`
+inline, but even if it forgot, the source list still appears. When the system declines (no good
+match), the source list is empty.
 
 ---
 
