@@ -1,0 +1,2610 @@
+SOURCE_ID: 12
+SOURCE_NAME: 8 Best Nashville Neighborhoods Near Vanderbilt
+SOURCE_KIND: web
+SOURCE_URL: https://www.nashvillesmls.com/blog/best-neighborhoods-near-vanderbilt-nashville-tn.html
+======================================================================
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+	
+<!-- START -- NashbillesMLS default/tpl/fonts -->
+<style type="text/css">
+
+@font-face {
+    font-family:"Proxima N W15 Light";
+    /*REWMOD - THEO TANG - OCT 26, 2022 | WPO OPTIMIZATION*/
+    font-display: swap;
+    src:url("/inc/skins/lec-2013/fnt/53f72e41-ffd4-47d4-b8bf-b1ab3cada2e5.eot?#iefix");
+    src:url("/inc/skins/lec-2013/fnt/53f72e41-ffd4-47d4-b8bf-b1ab3cada2e5.eot?#iefix") format("eot"),
+        url("/inc/skins/lec-2013/fnt/fb5639f2-f57b-487d-9610-3dc50820ab27.woff") format("woff"),
+        url("/inc/skins/lec-2013/fnt/2eafe9b7-5a21-49c0-84ca-54c54f899019.ttf") format("truetype"),
+        url("/inc/skins/lec-2013/fnt/0a2fe21c-cfdd-4f40-9dca-782e95c1fa90.svg#0a2fe21c-cfdd-4f40-9dca-782e95c1fa90") format("svg");
+}
+
+@font-face {
+    font-family:"Proxima N W15 Reg";
+    /*REWMOD - THEO TANG - OCT 26, 2022 | WPO OPTIMIZATION*/
+    font-display: swap;
+    src:url("/inc/skins/lec-2013/fnt/ccd538c8-85a6-4215-9f3f-643c415bbb19.eot?#iefix");
+    src:url("/inc/skins/lec-2013/fnt/ccd538c8-85a6-4215-9f3f-643c415bbb19.eot?#iefix") format("eot"),
+        url("/inc/skins/lec-2013/fnt/e8e438df-9715-40ed-b1ae-58760b01a3c0.woff") format("woff"),
+        url("/inc/skins/lec-2013/fnt/baf65064-a8a8-459d-96ad-d315581d5181.ttf") format("truetype"),
+        url("/inc/skins/lec-2013/fnt/76bd19c9-c46a-4c27-b80e-f8bd0ecd6057.svg#76bd19c9-c46a-4c27-b80e-f8bd0ecd6057") format("svg");
+}
+
+@font-face {
+    font-family:"Proxima N W15 Bold";
+    /*REWMOD - THEO TANG - OCT 26, 2022 | WPO OPTIMIZATION*/
+    font-display: swap;
+    src:url("/inc/skins/lec-2013/fnt/9682bb7d-efd6-4254-8771-e146c89a72d4.eot?#iefix");
+    src:url("/inc/skins/lec-2013/fnt/9682bb7d-efd6-4254-8771-e146c89a72d4.eot?#iefix") format("eot"),
+        url("/inc/skins/lec-2013/fnt/a3a867b8-141c-4865-9f8d-6dc5766a6bc5.woff") format("woff"),
+        url("/inc/skins/lec-2013/fnt/b9d6d5ca-ba9b-4fa1-a81e-366891676e4a.ttf") format("truetype"),
+        url("/inc/skins/lec-2013/fnt/844c48e5-7a2b-488b-9e47-ff8dda98e5e2.svg#844c48e5-7a2b-488b-9e47-ff8dda98e5e2") format("svg");
+}
+
+@font-face {
+    font-family: 'icomoon';
+     /*REWMOD - THEO TANG - OCT 26, 2022 | WPO OPTIMIZATION*/
+     font-display: swap;
+    src:url('/inc/skins/lec-2013/fnt/icomoon.eot?p7mg0y11');
+    src:url('/inc/skins/lec-2013/fnt/icomoon.eot?#iefixp7mg0y11') format('embedded-opentype'),
+        url('/inc/skins/lec-2013/fnt/icomoon.woff?p7mg0y11') format('woff'),
+        url('/inc/skins/lec-2013/fnt/icomoon.ttf?p7mg0y11') format('truetype'),
+        url('/inc/skins/lec-2013/fnt/icomoon.svg?p7mg0y11#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+</style>
+<!-- END -- NashbillesMLS default/tpl/fonts -->
+	<!-- START -- NashbillesMLS default/tpl/header -->
+<title>8 Best Nashville Neighborhoods Near Vanderbilt University: Where to Live Near Vandy</title>
+<meta name="description" content="If you want to live near Vanderbilt University, there are a number of great neighborhoods to consider. Here's what to know about some of the best neighborhoods near Vanderbilt.">
+<meta name="google-site-verification" content="OamAaB7nQGwL0I94yk2hjIChzbunp8a1qKBKo7nnlmw">
+<meta name="msvalidate.01" content="514A1221488415F305AF5BD16F2414FF">
+<meta name="msvalidate.01" content="43EA9CBF9DA9BD819CFE75C9D1608AC5" />
+<meta name="facebook-domain-verification" content="v47af142vv0q2w3fqryr4ualow0azy" />
+<meta name="facebook-domain-verification" content="vdmco4vla6ym6jwifp99ffnata688v" />
+<link rel="alternate" type="application/rss+xml" title="Blog RSS Feed" href="https://www.nashvillesmls.com/blog/rss/">
+<link rel="pingback" href="https://www.nashvillesmls.com/blog/ping.php">
+<link rel="stylesheet" href="/inc/cache/css/static.41e2edf05c9fff11b0061e0534ce62d0.4.7.7.6.css"><style>.idx-user-bar{width:100%;float:left;clear:both;background:#E0D9D2;border:1px
+solid #E0D9D2;//margin: 20px 0 40px 0;margin:5px
+0px;padding:1px
+0 0 0}.idx-user-bar
+p{margin:0;padding:5px
+20px;font-family:"Proxima N W15 Reg";float:left}.idx-user-bar
+.nav{margin:0;float:right}.idx-user-bar ul,
+.idx-user-bar li,
+.idx-user-bar
+a{margin:0;float:left}.idx-user-bar .nav
+h4{margin:0;float:left;display:none}@media only screen and (max-width:879px){.idx-user-bar .nav.horizontal.hidden-desktop{float:none}.idx-user-bar .var-phone-number{display:block}.idx-user-bar .phone-header{display:none}.idx-user-bar
+ul{float:none}.idx-user-bar ul:before,
+.idx-user-bar ul:after{display:none}.idx-user-bar>ul{width:100%;display:block}.idx-user-bar>ul>li{display:block;float:none;clear:both}.idx-user-bar ul.numbers,
+.idx-user-bar ul.numbers
+li{padding:0;display:inline;float:none}.idx-user-bar ul.numbers
+li{margin:0
+10px}}@media only screen and (max-width:780px){.idx-user-bar .nav
+h4{display:block}#page #body .idx-user-bar nav.horizontal ul li a, #page #body .idx-user-bar .nav.horizontal ul li
+a{font-size:14px}.idx-user-bar .nav .navi-refine{display:inline-block !important}}@media only screen and (max-width: 480px){.idx-user-bar .nav h4,
+.idx-user-bar
+p{display:none}}.webicon{background-size:100% 100% !important;margin:0
+0 0 2px;display:inline-block;width:30px;height:30px;text-indent:-999em;text-align:left;-moz-box-shadow:0 1px 0 rgba(0, 0, 0, 0.5);-webkit-box-shadow:0 1px 0 rgba(0, 0, 0, 0.5);box-shadow:0 1px 0 rgba(0,0,0,0.5);-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.webicon:hover{-moz-box-shadow:0 2px 0 rgba(0, 0, 0, 0.25);-webkit-box-shadow:0 2px 0 rgba(0, 0, 0, 0.25);box-shadow:0 2px 0 rgba(0,0,0,0.25)}.webicon.small{width:20px;height:20px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.webicon.large{width:30px;height:30px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px}.no-svg
+.webicon.facebook{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook-m.png")}.no-svg
+.webicon.facebook.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook.png")}.no-svg
+.webicon.facebook.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook-s.png")}.svg
+.webicon.facebook{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook.svg")}.no-svg
+.webicon.twitter{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter-m.png")}.no-svg
+.webicon.twitter.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter.png")}.no-svg
+.webicon.twitter.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter-s.png")}.svg
+.webicon.twitter{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter.svg")}.no-svg
+.webicon.googleplus{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus-m.png")}.no-svg
+.webicon.googleplus.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus.png")}.no-svg
+.webicon.googleplus.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus-s.png")}.svg
+.webicon.googleplus{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus.svg")}.no-svg
+.webicon.linkedin{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin-m.png")}.no-svg
+.webicon.linkedin.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin.png")}.no-svg
+.webicon.linkedin.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin-s.png")}.svg
+.webicon.linkedin{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin.svg")}.no-svg
+.webicon.pinterest{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest-m.png")}.no-svg
+.webicon.pinterest.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest.png")}.no-svg
+.webicon.pinterest.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest-s.png")}.svg
+.webicon.pinterest{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest.svg")}.no-svg
+.webicon.rss{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss-m.png")}.no-svg
+.webicon.rss.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss.png")}.no-svg
+.webicon.rss.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss-s.png")}.svg
+.webicon.rss{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss.svg")}.no-svg
+.webicon.youtube{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube-m.png")}.no-svg
+.webicon.youtube.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube.png")}.no-svg
+.webicon.youtube.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube-s.png")}.svg
+.webicon.youtube{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube.svg")}.no-svg
+.webicon.instagram{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram-m.png")}.no-svg
+.webicon.instagram.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram.png")}.no-svg
+.webicon.instagram.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram-s.png")}.svg
+.webicon.instagram{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram.svg")}.no-svg
+.webicon.yelp{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp-m.png")}.no-svg
+.webicon.yelp.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp.png")}.no-svg
+.webicon.yelp.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp-s.png")}.svg
+.webicon.yelp{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp.svg")}a.page-summary{cursor:pointer}#page-summary{display:none;background-color:#fff}#page-summary-inner{width:940px;margin:0
+auto;padding:20px
+0;position:relative}#page-summary h1,
+#page-summary
+p{color:#333 !important}#page-summary
+a{color:#00F !important}#page-summary .page-summary-close{color:#666 !important;cursor:pointer;background:#efefef url('/inc/modules/page-summary/img/icon-sprite.png') no-repeat right 5px;position:absolute;top:0;right:0;font-size:11px;line-height:12px;padding:5px
+25px 5px 10px;-webkit-border-bottom-right-radius:5px;-webkit-border-bottom-left-radius:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-bottomleft:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;-moz-box-shadow:0px 2px 3px #888;-webkit-box-shadow:0px 2px 3px #888;box-shadow:0px 1px 2px #888}.page-summary.floating{position:fixed;background:#efefef url('/inc/modules/page-summary/img/icon-sprite.png') no-repeat 6px -21px;color:#666;text-decoration:none;bottom:0;right:10px;z-index:9999;padding:5px
+10px 5px 25px;-webkit-border-top-left-radius:5px;-webkit-border-top-right-radius:5px;-moz-border-radius-topleft:5px;-moz-border-radius-topright:5px;border-top-left-radius:5px;border-top-right-radius:5px;-moz-box-shadow:0px -2px 3px #333
+-webkit-box-shadow: 0px -2px 3px #333;box-shadow:0px -1px 3px #333}.lec-2010 .page-summary.floating,
+.lec6 .page-summary.floating,
+.lec5 .page-summary.floating,
+.lec4 .page-summary.floating,
+.lec3 .page-summary.floating{display:none}.lec6 a.page-summary{margin-left:6px;padding-left:8px;line-height:normal;border-left:solid 1px #fff}.lec3 a.page-summary{position:absolute;font-size:11px;line-height:12px;top:0;right:40px;padding:5px
+10px;background-color:#fff;-webkit-border-bottom-right-radius:5px;-webkit-border-bottom-left-radius:5px;-moz-border-radius-bottomright:5px;-moz-border-radius-bottomleft:5px;border-bottom-right-radius:5px;border-bottom-left-radius:5px;-moz-box-shadow:0px 2px 3px #888;-webkit-box-shadow:0px 2px 3px #888;box-shadow:0px 2px 3px #888}.template-01 #page-summary h1,
+.template-01b #page-summary
+h1{text-transform:none;border:0;text-align:left;letter-spacing:normal;margin-bottom:20px}.webicon{background-size:100% 100% !important;margin:0
+0 0 2px;display:inline-block;width:30px;height:30px;text-indent:-999em;text-align:left;-moz-box-shadow:0 1px 0 rgba(0, 0, 0, 0.5);-webkit-box-shadow:0 1px 0 rgba(0, 0, 0, 0.5);box-shadow:0 1px 0 rgba(0,0,0,0.5);-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.webicon:hover{-moz-box-shadow:0 2px 0 rgba(0, 0, 0, 0.25);-webkit-box-shadow:0 2px 0 rgba(0, 0, 0, 0.25);box-shadow:0 2px 0 rgba(0,0,0,0.25)}.webicon.small{width:20px;height:20px;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px}.webicon.large{width:30px;height:30px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px}.no-svg
+.webicon.facebook{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook-m.png")}.no-svg
+.webicon.facebook.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook.png")}.no-svg
+.webicon.facebook.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook-s.png")}.svg
+.webicon.facebook{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-facebook.svg")}.no-svg
+.webicon.twitter{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter-m.png")}.no-svg
+.webicon.twitter.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter.png")}.no-svg
+.webicon.twitter.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter-s.png")}.svg
+.webicon.twitter{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-twitter.svg")}.no-svg
+.webicon.googleplus{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus-m.png")}.no-svg
+.webicon.googleplus.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus.png")}.no-svg
+.webicon.googleplus.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus-s.png")}.svg
+.webicon.googleplus{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-googleplus.svg")}.no-svg
+.webicon.linkedin{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin-m.png")}.no-svg
+.webicon.linkedin.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin.png")}.no-svg
+.webicon.linkedin.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin-s.png")}.svg
+.webicon.linkedin{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-linkedin.svg")}.no-svg
+.webicon.pinterest{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest-m.png")}.no-svg
+.webicon.pinterest.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest.png")}.no-svg
+.webicon.pinterest.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest-s.png")}.svg
+.webicon.pinterest{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-pinterest.svg")}.no-svg
+.webicon.rss{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss-m.png")}.no-svg
+.webicon.rss.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss.png")}.no-svg
+.webicon.rss.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss-s.png")}.svg
+.webicon.rss{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-rss.svg")}.no-svg
+.webicon.youtube{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube-m.png")}.no-svg
+.webicon.youtube.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube.png")}.no-svg
+.webicon.youtube.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube-s.png")}.svg
+.webicon.youtube{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-youtube.svg")}.no-svg
+.webicon.instagram{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram-m.png")}.no-svg
+.webicon.instagram.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram.png")}.no-svg
+.webicon.instagram.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram-s.png")}.svg
+.webicon.instagram{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-instagram.svg")}.no-svg
+.webicon.yelp{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp-m.png")}.no-svg
+.webicon.yelp.large{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp.png")}.no-svg
+.webicon.yelp.small{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp-s.png")}.svg
+.webicon.yelp{background:url("/inc/skins/brew/modules/social-share/img/flat/webicon-yelp.svg")}</style>
+<!-- START -- NashbillesMLS default/tpl/scripts -->
+<script>
+const site_gtmKey = 'G-H9EJVZZ25P';
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', site_gtmKey);
+gtag('config', 'UA-291385-1');
+function lazyLoadTimeoutGTM() {
+    setTimeout(lazyLoadGTM, 3500);
+}
+function lazyLoadGTM(event) {
+    if (window.gtmLazyLoaded) {
+        return false;
+    }
+    window.gtmLazyLoaded = true;
+    document.removeEventListener('scroll', lazyLoadGTM);
+    document.removeEventListener('mousemove', lazyLoadGTM);
+    document.removeEventListener('touchstart', lazyLoadGTM);
+    document.removeEventListener('DOMContentLoaded', lazyLoadTimeoutGTM);
+
+    // Google gtag.js (only google stuff)
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=' + site_gtmKey;
+    script.async = true;
+    document.getElementsByTagName('head')[0].appendChild(script);
+
+    // Google Tag Manager
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5NV74D6');
+
+    // Hotjar.com Tracking
+        (function (h, o, t, j, a, r) {
+        h.hj = h.hj || function () {
+            (h.hj.q = h.hj.q || []).push(arguments)
+        };
+        h._hjSettings = {hjid: 3600429, hjsv: 6};
+        a = o.getElementsByTagName('head')[0];
+        r = o.createElement('script');
+        r.async = 1;
+        r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv='); 
+    
+    // Facebook Pixel Code
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+    // FB pixel 1
+    fbq('init', '721880624517802');
+    fbq('track', "PageView");
+    // FB pixel 2
+    fbq('init', '768212430007950');
+    fbq('track', 'PageView');
+    // FB pixel 3
+    fbq('init', '693777454456043');
+    fbq('track', 'PageView');
+
+};
+document.addEventListener('DOMContentLoaded', lazyLoadTimeoutGTM);
+document.addEventListener('scroll', lazyLoadGTM);
+document.addEventListener('mousemove', lazyLoadGTM);
+document.addEventListener('touchstart', lazyLoadGTM);
+</script>
+
+
+
+<script src="https://use.fontawesome.com/d6d6608ca4.js"></script>
+
+
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script type="text/javascript">
+function validateRecaptcha() {
+    var response = grecaptcha.getResponse();
+    if (response.length === 0) {
+        alert("Please validate.");
+        return false;
+    } else {
+        return true;
+    }
+}
+</script>
+
+
+<!-- END -- NashbillesMLS default/tpl/scripts -->
+
+<!-- END -- NashbillesMLS default/tpl/header -->
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+
+</head>
+
+<body class="blog entry lec-2013 custom realtracs multi-idx tpl-2col">
+
+	<!-- NOSCRIPT Tags -->
+    <noscript>
+	    <!-- Google Tag Manager (noscript) -->
+    	<iframe
+    	src="https://www.googletagmanager.com/ns.html?id=GTM-5NV74D6"
+    	height="0" width="0"
+    	style="display:none;visibility:hidden"></iframe>
+	    <!-- End Google Tag Manager (noscript) -->
+    </noscript>
+
+	<!-- module: page-summary -->
+    <div id="page-summary">
+    <div id="page-summary-inner">
+    	<h1>8 Best Nashville Neighborhoods Near Vanderbilt University: Where to Live Near Vandy</h1><p>If you want to live near Vanderbilt University, there are a number of great neighborhoods to consider. Here's what to know about some of the best neighborhoods near Vanderbilt.</p><a href="#content" title="8 Best Nashville Neighborhoods Near Vanderbilt University: Where to Live Near Vandy">8 Best Nashville Neighborhoods Near Vanderbilt University: Where to Live Near Vandy</a>        <a class="page-summary-close">Close</a>
+    </div> 
+</div>
+<a class="page-summary floating" href="#page-summary">Page Summary</a>	<!-- module: copy-search-link -->
+    
+	<div id="page">
+
+					<header id="head">
+				<div class="wrap" itemscope itemtype="http://schema.org/Organization">
+					                                                                                
+                    					<a itemprop="url" href="/" id="logo"><img itemprop="logo" src="/uploads/agent-1/nmls-logo.webp" width="167" height="80" alt="The Ashton Real Estate Group of RE/MAX Advantage"></a>
+																<div id="phone">
+							<span class="phone-header">The Ashton Real Estate Group of RE/MAX Advantage</span>
+<ul class="numbers">
+
+<li><span>Office</span> <b><a href="tel:(615) 603-3602">(615) 603-3602</a></b></li><li></li>
+<li><span>SHOWINGS</span> <b><a href="tel:(615) 988-6252">(615) 988-6252</a></b></li><li></li>
+</ul>							<div class="social-share">
+	<a class="webicon facebook" href="https://www.facebook.com/theashtonrealestategroup" title="Find Us on Facebook" target="_blank">Facebook</a>
+	<a class="webicon twitter" href="https://twitter.com/garyashton" title="Find Us on Twitter" target="_blank">Twitter</a>
+	<a class="webicon linkedin" href="http://www.linkedin.com/profile/view?id=11587980" title="Find Us on LinkedIn" target="_blank">LinkedIn</a>
+	<a class="webicon youtube" href="https://www.youtube.com/channel/UCIn-55tFrX9yBXZDblRKgCg" title="Find Us on YouTube" target="_blank">YouTube</a>
+        <!-- <a class="webicon pinterest" href="#" title="Find Us on Pinterest" target="_blank">Pinterest</a> --> 	
+        <!-- <a class="webicon rss" href="/blog/rss/" title="Subscribe to RSS" target="_blank">RSS</a> -->
+</div>						</div>
+
+						<div id="user-login">
+																															<a href="tel:16156033602" class="btn positive call_button">Click to Call<br>615 603 3602</a>
+						</div>
+
+						<nav class="horizontal">
+							<h4 id="mobile-menu"><i class="icon-list"></i></h4>
+														<ul class="hidden-phone -nav-mobile-optimized">
+                                																<div class="custom-nav -nav-mobile-optimized">
+    <li id="nav-pri-listings" class="has-menu">
+        <!-- <a class="nav-heading" href="/idx/">Search Homes</a> -->
+        <button class="nav-heading dropdown__toggle" data-link='/idx' ;>
+            Search Homes
+        </button>
+        <div class="menu hw-trifold">
+            <ul>
+                <li><strong>Search Homes By Type:</strong></li>
+<li><a href="/todays-new-listings.php">Today's New Listings</a></li>
+                <li><a href="/idx/search.html">Search All Listings</a></li>
+                <li><a href="/idx/search_premium.html?payment_only"><B>Search By Payment: PREMIUM</a></li>
+                <li><a href="/idx/">Search by City</a></li>
+                <li><a href="/idx/search_address.html">Search by Address</a></li>
+                <li><a href="/idx/search_subdivision.html">Search by Subdivision</a></li>
+                <li><a href="/nashville-area-zip-codes.php">Search by Zip Code</a></li>
+                <li><a href="/idx/search_mls.html">Search by MLS Number</a></li>
+                <li><a href="/nashville-schools.php">Search by School</a></li>
+                <li><a href="/idx/map/">Search by Map</a></li>
+                <li><a href="/metro-nashville-home-builders.php">Search By Home Builder</a></li>
+            </ul>
+            <ul>
+                <li><strong>Search Tools:</strong></li>
+                <li><a href="/help.php">How to Create a Home Search</a></li>
+                <li><a href="/idx/realtracs-vow/">Search Sold Listings</a></li>
+                <li><a href="/google-search.php">Site Search with Google</a></li>
+                <li><a href="/premium-access.php"><B>About Premium Intel Access</a></li>
+            </ul>
+            <ul>
+                <li><strong>Featured Searches:</strong></li>
+                <li><a href="/featured-listings.php">Featured Listings</a></li>
+                <li><a href="/nashville-new-construction.php">New Construction</a></li>
+                <li><a href="/ashton-auction-advantage.php">Auctions</a></li>
+                <li><a href="/commercial-real-estate-listing.php">Commercial Real Estate</a></li>
+                <li><a href="/pre-listings.php"><b>Pre List Homes: PREMIUM</a></li></b>
+            </ul>
+        </div>
+    </li>
+
+    <li id="nav-pri-communities" class="has-menu">
+        <!-- <a class="nav-heading" href="/communities.php">Searches By City</a> -->
+        <button class="nav-heading dropdown__toggle" data-link='/communities.php' ;>
+            Searches By City
+        </button>
+        <div class="menu">
+            <ul>
+                 <li><a href="/real-estate.php">Nashville TN</a></li>
+<li><a href="/east-nashville-real-estate.php">East Nashville</a></li>
+                <li><a href="/brentwood-tennessee-real-estate.php">Brentwood</a></li>
+                <li><a href="/clarksville-tennessee-real-estate.php">Clarksville</a></li>
+                
+                <li><a href="/franklin-tennessee-real-estate.php">Franklin</a></li>
+                <li><a href="/gallatin-tennessee-real-estate.php">Gallatin</a></li>
+                <li><a href="/goodlettsville-tennessee-real-estate.php">Goodlettsville</a></li>
+                <li><a href="/hendersonville-tennessee-real-estate.php">Hendersonville</a></li>
+                <li><a href="/murfreesboro-tennessee-real-estate.php">Murfreesboro</a></li>
+                <li><a href="/spring-hill-tennessee-real-estate.php">Spring Hill</a></li>
+            </ul>
+        </div>
+    </li>
+
+    <li id="nav-pri-communities">
+        <a class="nav-heading" href="/nashville-schools.php">School Districts</a>
+    </li>
+
+    <li id="nav-pri-buyers" class="has-menu">
+        <!-- <a class="nav-heading" href="/buying.php">Buyers</a> -->
+        <button class="nav-heading dropdown__toggle" data-link='/buying.php' ;>
+            Buyers
+        </button>
+        <div class="menu">
+            <ul>
+                <li><a href="/nashville-relocation.php">Nashville Relocation</a></li>
+                <li><a href="/best-of-nashville.php">Best of Nashville</a></li>
+                <li><a href="/mortgage-calculator.php">Mortgage Calculator</a></li>
+                <li><a href="/mortgage.php">Mortgage Information</a></li>
+                <li><a href="/drive-time-map.php">Drive Time Maps</a></li>
+                <li><a href="/home-insurance.php">Home Insurance</a></li>
+                <li><a href="/what-is-my-home-worth.php">Free Home Evaluation</a></li>
+                <li><a href="/help.php">View Site Features</a></li>
+                <li><a href="/resources.php">Buyer Resources and Links</a></li>
+            </ul>
+        </div>
+    </li>
+
+    <li id="nav-pri-sellers" class="has-menu">
+        <!-- <a class="nav-heading" href="/selling.php">Sellers</a> -->
+        <button class="nav-heading dropdown__toggle" data-link='/selling.php' ;>
+            Sellers
+        </button>
+        <div class="menu">
+            <ul>
+                <li><a href="/listing.php">Listing Your Home</a></li>
+                <li><a href="/name-your-selling-price.php">Name Your Selling Price</a></li>
+                <li><a href="/guaranteed-offer.php">Guaranteed Offer</a></li>
+                <li><a href="/cash-offer.php">Cash Offer</a></li>
+                <li><a href="https://lynx.ly/nashville-values" target="_blank" rel="nofollow">What is Your Home
+                        Worth?</a>
+                </li>
+                <li><a href="https://lynx.ly/sell-intel" target="_blank" rel="nofollow">Who Wants to Buy Your Home?</a>
+                </li>
+            </ul>
+        </div>
+    </li>
+
+    <li id="nav-pri-blog" class="has-menu">
+        <!-- <a class="nav-heading" href="/blog/">Blog</a> -->
+        <button class="nav-heading dropdown__toggle" data-link='/blog/' ;>
+            Blog
+        </button>
+        <div class="menu">
+            <ul>
+                <li><a href="/blog/moving-to/">Moving Guides</a></li>
+                <li><a href="/blog/living-in-tennessee/">Living In Tennessee</a></li>
+            </ul>
+        </div>
+    </li>
+
+    <li id="nav-pri-contact" class="has-menu">
+        <!-- <a class="nav-heading" href="/contact.php">Contact</a> -->
+        <button class="nav-heading dropdown__toggle" data-link='/contact.php' ;>
+            Contact
+        </button>
+        <div class="menu">
+            <ul>
+                <li><a class="nav-heading" href="/about.php">About Us</a></li>
+                <li><a class="nav-heading" href="/corporate-relocation-information.php">Corporate Relocation</a></li>
+                <li><a class="nav-heading" href="/join-our-team.php">Join Our Team</a></li>
+                <li><a class="nav-heading" href="/team-calendar.php">Team Training Calendar</a></li>
+            </ul>
+        </div>
+    </li>
+</div>
+
+
+<!-- MORE THIS TO CODEBASE -->
+<style>
+    @media screen and (min-width: 960px) {
+        #head nav.horizontal li#nav-pri-listings .menu.hw-trifold {
+            width: 690px;
+        }
+
+        #head nav.horizontal li#nav-pri-listings .menu.hw-trifold ul {
+            width: 33%;
+        }
+    }
+</style>																	<li><a class="popup" href="/idx/login.html">Sign In</a></li>
+															</ul>
+						</nav>
+									</div>
+			</header>
+		
+<div id="body">
+	<div class="wrap">
+						<div id="content">
+			
+	<header>
+
+		<h1>8 Best Nashville Neighborhoods Near Vanderbilt University: Where to Live Near Vandy</h1>
+
+		<p>
+			<em>
+				Posted
+									by <a href="https://www.nashvillesmls.com/blog/author/gary-ashton/">Gary Ashton</a>
+								on Wednesday, July 12th, 2023 at 10:49am.
+			</em>
+		</p>
+
+	</header>
+
+	<div class="body"><div id="hw-pillar" class="hw-pillar-nashville"><img style="display: block; margin: 20px auto;" src="/uploads/agent-1/vanderbilt-best-neighborhoods.jpg" alt="Best Neighborhoods Near Vanderbilt" />
+<p>Unravel the allure of <a href="/blog/best-neighborhoods-nashville.html">Nashville's best neighborhoods</a>, beckoning those looking to live near Vanderbilt University. Experience the fusion of modernity and charm amidst dining, shopping, and cultural hotspots. Uncover the essence of Nashville's history and vibrancy. Whether you want to live close to work, invest in kiddie condos near Vanderbilt University, or broaden your real estate portfolio, immerse yourself in the best Nashville neighborhoods near Vanderbilt University to find the perfect real estate opportunity for you.</p>
+<h2 class="nmls-housing">Elliston Place</h2>
+<p>Elliston Place is located in the heart of Nashville Midtown, just north of Vanderbilt University and across West End Avenue. It offers several bus routes along Church Street and Broadway that go around the university, though locals can reach the campus on foot in under 10 minutes. <strong>Some of Nashville's best live music venues, drinking holes, and eateries are located within walking distance of many Elliston Place homes.</strong> One popular spot is <a href="https://www.conservancyonline.com/flourishhere?gclid=CjwKCAjw-vmkBhBMEiwAlrMeFygvS6Lr8pReg7RF4CFTuJ-S8nzSO3KM8RTEwjwSS4OISXwHd0JMUBoChJ8QAvD_BwE" target="_blank">Centennial Park</a>, where residents can enjoy summer concerts, outdoor yoga, and more.</p>
+<p><a href="/blog/did-you-know82-people-move-to-nashville-every-day.html">Living in Nashville</a> on the nightlife corridor along Elliston Place gives you access to long-standing music venues like EXIT/IN, Cross-Eyed Critters, Caf&eacute; Coco, and The End. Other Nashville staples located here include Elliston Place Soda Shop, Corner Bar, and I Love Sushi. Other eateries like Commodore Grille, Jason's Deli, and Michaelangelo's Pizza have become local favorites. In the neighborhood's northern section, locals can find top-notch medical facilities, like TriStar Centennial and Ascension Saint Thomas Hospital. For recreation nearby, Centennial Sportsplex offers swimming pools, tennis courts, a skating rink, and a fitness center.</p>
+<p>Homes in Ellison Place tend to be part of Nashville Midtown's condo market, with many modern homes near Vanderbilt University dating back to the 2010s. <a title="Midtown Homes for Sale" href="/midtown.php">Home prices in Midtown</a> and Ellison Place range from $400,000 for a one-bedroom condo to $1.5 million for a large detached property.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>Elliston Place Amenities</h3>
+<ul style="columns: 2;">
+<li>Jimmy Kelly's Steakhouse</li>
+<li>Aladdin's Lounge &amp; Bar</li>
+<li>Martin's Bar-B-Que Joint</li>
+<li>The Local Nashville Bar</li>
+<li>Centennial Park Volleyball Courts</li>
+<li>F45 Training Midtown Nashville</li>
+</ul>
+</div>
+<h2 class="nmls-housing">8th Ave S.</h2>
+<p><strong>Known for its hip culture and independent businesses, Nashville's trendy 8th Ave S. neighborhood is situated about one mile east of Vanderbilt University.</strong> Locals can reach the campus in less than 10 minutes by biking or driving along Edgehill Avenue. Alternatively, it takes about 25 minutes to walk there or travel by bus via Wedgewood or Edgehill avenues. Locals are minutes away from I-65 and I-40, providing easy access to <a title="Downtown Nashville Homes for Sale" href="/downtown-real-estate.php">downtown Nashville</a> and other nearby areas.</p>
+<p>The 8th Ave S. neighborhood offers a wide variety of local venues, shops, and eateries, with most of them located along the main thoroughfare. These include The Basement, an up-close music venue; 8th &amp; Roast, a craft coffee shop; and Zanies Comedy Club, a classic since 1983. Locals can also walk to hotspots like The Urban Juicer, Love Peace &amp; Pho, and Reservoir Park. The park offers athletic courts, walking paths, a playground, and a picnic pavilion. Other local amenities include Dogtopia Daycare, Rumble Seat Guitar Store, and a Publix Supermarket.</p>
+<p><a href="/melrose-8th-ave-s.php">Homes for sale on 8th Ave S.</a> range from condos in established and newer buildings to single-household bungalows and new construction properties. Prices start at around $300,000 for a 600-square-foot condo and climb up to $2 million for a large <a title="Nashville Luxury Homes for Sale" href="/luxury-homes-estates.php">luxury property</a>.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>8th Ave S. Amenities</h3>
+<ul style="columns: 2;">
+<li>Baked on 8th</li>
+<li>Local Honey Salon</li>
+<li>Dallas Neil Park</li>
+<li>The Smiling Elephant</li>
+<li>The Eighth Room</li>
+<li>Preservation Station Antiques</li>
+<li>Starland Vintage &amp; Unusual</li>
+</ul>
+</div>
+<h2 class="nmls-housing">Edgehill</h2>
+<img style="display: block; margin: 20px auto;" src="/uploads/agent-1/edgehill-village-community.jpg" alt="Living in the Edgehill Community" />
+<p>Edgehill is situated just east of Vanderbilt University, and only a 10 minutes' walk to the campus from the neighborhood's core. It extends from Division Street in the north to Wedgewood Avenue in the south, with Vanderbilt University and 8th Avenue South marking its western and eastern boundaries, respectively. <strong>Edgehill features a quiet residential side with tree-lined streets and some of </strong><a href="/blog/best-parks-nashville.html"><strong>Nashville&rsquo;s best parks</strong></a>, as well as an urban commercial side that includes the popular Villa Place strip.</p>
+<p>Around Villa Place, locals can find many of the neighborhood's gems, such as Barcelona Wine Bar, Jack Brown's Beer &amp; Burger Joint, and Sadie's Mediterranean Restaurant. Other notable places include Egghill for breakfast, Bella Napoli for Italian eats, and the cocktail lounge Old Glory, which is located in an underground boiler room. For outdoor recreation, Edgehill residents are within walking distance of some of the largest green spaces in Nashville Midtown, including Reservoir Park, Rosa Park, and Edgehill Community Garden. Shops and services like Aesop, Billy Reid, Moose Men's Grooming Lounge, and CrossFit Music City are also nearby.</p>
+<p><a href="/edgehill-edgehill-village.php">Homes for sale in Edgehill</a> include traditional brick <a title="Nashville Ranch Homes for Sale" href="/nashville/ranch-homes.php">ranch homes</a>, modern condominiums, and new construction, single-household properties. Condos are generally priced between $400,000 and $800,000, while detached properties can range from $700,000 to $3 million.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>Edgehill Amenities</h3>
+<ul style="columns: 2;">
+<li>Vow'd Bridal Shop</li>
+<li>Small World Yoga</li>
+<li>Bobby's Idle Hour Tavern</li>
+<li>No Baked Cookie Dough</li>
+<li>The Well Coffeehouse</li>
+<li>Rosa Park Middle School</li>
+</ul>
+</div>
+<h2 class="nmls-housing">Hillsboro Village</h2>
+<p><strong>Hillsboro Village developed in the late 1800s as a streetcar suburb of Nashville and is now considered a hip, modern neighborhood.</strong> Located one mile south of Vanderbilt University, it's just a 10-minute bike ride or a five-minute drive away from the campus. Locals appreciate the area's walkability, with many shops, restaurants, and entertainment options close by. The neighborhood is also home to Nashville landmarks like the Belcourt Theatre, Belcourt Mansion, and the Gallery of Iconic Guitars.</p>
+<p>Hillsboro Village is known for its unique selection of eateries located on 21st Avenue South, including E3 Chophouse, Biscuit Love, and Fido. The Pancake Pantry is a local favorite, serving up stacks of its namesake breakfast item since 1961. Other spots worth checking out include The Grilled Cheeserie, Hopdoddy Burger Bar, and The Villager Tavern. Locals are also near one-of-a-kind boutiques like The Impeccable Pig, the Nash Collection, and Molly Green. Other local amenities include the Fisher Center for the Performing Arts, Bloom Flowers, and Cognito Hair Design.</p>
+<p><a href="/hillsboro-village-real-estate.php">Real estate in Hillsboro Village</a> consists of early 1900s bungalows, <a title="Nashville Condos &amp; Lofts for Sale" href="/nashville-condos-lofts-townhomes.php">modern condos</a>, and new construction, single-household properties. Prices range from $500,000 for a two-bedroom condo to more than $3 million for a large luxury home.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>Hillsboro Village Amenities</h3>
+<ul style="columns: 2;">
+<li>Anzie Blue</li>
+<li>Blo Blow Dry Bar</li>
+<li>Taco Mama</li>
+<li>Proper Bagel</li>
+<li>Troutt Theater</li>
+<li>Kroger Supermarket</li>
+<li>Athens Family Restaurant</li>
+<li>Rebecca James Clothing</li>
+</ul>
+</div>
+<h2 class="nmls-housing">12 South</h2>
+<p><strong>One of </strong><a href="/blog/nashvilles-most-walkable-neighborhoods.html"><strong>Nashville's most walkable neighborhoods</strong></a> is 12 South, which is situated southeast of Vanderbilt University. Locals can reach the campus in less than 10 minutes by car or bike. The neighborhood's main commercial street is <a title="12th South Avenue Commercial Real Estate for Sale" href="/nashville-12th-south-commercial.php">12th Avenue South</a>, running from Wedgewood Avenue in the north to the Four-Forty Parkway in the south. While the neighborhood's spine along 12th Avenue South is quite busy, the residential blocks surrounding it are quiet and leafy, providing a tranquil atmosphere for locals.</p>
+<p>Dining options in 12 South range from MAFIAoZA's Pizzeria and Edly's Bar-B-Que to bartaco and Burger Up. Hip coffee shops like White Bison, Frothy Monkey, and Wanna Spoon Cereal Bar are popular gathering places, as are the classic watering holes Bottle Cap Bar, The Filling Station, and 12 South Taproom. Other neighborhood hotspots include Sevier Park, the 12th South Farmers Market, and White's Mercantile.</p>
+<p><a title="12 South Homes for Sale" href="/12-south-real-estate.php">Homes in 12 South</a> include single-household properties from the early 1900s as well as newly built condos and townhomes. Architectural styles range from ranch-style homes and storybook <a title="Nashville Cottages for Sale" href="/nashville/cottage-homes.php">cottages</a> to classic <a title="Nashville Colonial Homes for Sale" href="/nashville/colonial-homes.php">colonials</a> and sleek <a title="Nashville Contemporary Homes for Sale" href="/nashville/contemporary-homes.php">contemporary designs</a>. Prices generally fall between $500,000 and $3 million.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>12 South Amenities</h3>
+<ul style="columns: 2;">
+<li>Urban Grub</li>
+<li>Epice Lebanese</li>
+<li>Locust (Fine Dining)</li>
+<li>Christie Cookie Co.</li>
+<li>imogene + willie</li>
+<li>Halcyon Bike Shop</li>
+<li>Waverly-Belmont Elementary</li>
+</ul>
+</div>
+<h2 class="nmls-housing">West End</h2>
+<img style="display: block; margin: 20px auto;" src="/uploads/agent-1/west-end-community.jpg" alt="Living in the West End Neighborhood" />
+<p><a href="/west-end-nashville.php">West End real estate</a> takes up a large portion of Nashville Midtown, running from I-40 in the north to Centennial Park's southwest corner, then curving to the east around Vanderbilt University. The campus is located in the neighborhood's southwestern corner and it's just a few minutes' stroll from the neighborhood's northern and central areas. <strong>Because of Vanderbilt's presence, West End features a plethora of eateries and bars near the campus, with several world-class venues right around the corner.</strong></p>
+<p>Some of the best spots in West End include the down-home Indian eatery Bombay Palace, the fine-dining French establishment Chateau West, and the no-frills dive Springwater Bar. The neighborhood also offers plenty of shops, including the locally-owned outdoor gear store Cumberland Transit and the trendy boutique The French Shoppe. Additionally, locals are within walking distance of Vanderbilt University Medical Center, Centennial Park, and an array of <a href="https://nashvilletodo.com/must-visit-midtown-nashville-bars-for-a-fun-night/" target="_blank">live music venues and bars in Nashville Midtown.</a></p>
+<p>Condos make up the bulk of West End's real estate market, but there are a few townhomes and detached properties located on the community's southern and eastern fringes. Prices range from $350,000 for a starter condo to upwards of $2 million for three or more bedrooms in a <a title="Nashville New Construction Homes for Sale" href="/nashville-new-construction.php">new construction property</a>.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>West End Amenities</h3>
+<ul style="columns: 2;">
+<li>Fable Lounge</li>
+<li>Analog at Hutton Hotel</li>
+<li>Losers Bar &amp; Grill</li>
+<li>San Antonio Taco Co.</li>
+<li>Centennial Dog Park</li>
+<li>Fannie Mae Dees Park</li>
+</ul>
+</div>
+<h2 class="nmls-housing">Marathon Village</h2>
+<p>Old brick factories and warehouses make up the Marathon Village district, with most buildings dating back to the early 1900s and repurposed for modern use. The neighborhood is located north of Vanderbilt University and is a five-minute drive or 10-minute bike ride away. Its centerpiece is the historic Marathon Motor Works building, a multi-level brick structure built in 1907. Today, it houses many trendy restaurants, bars, boutiques, and galleries.</p>
+<p><strong>The neighborhood's open lots, colorful murals, and vintage architecture create an industrial-chic atmosphere that's unique to Nashville Midtown.</strong> Most of the action is centered along the Clinton Street corridor, where locals can find hotspots like Antique Archeology Nashville, Southern Engine Deli, and Marathon Music Works. While locals tend to venture out for groceries, there are a few local services and amenities within walking distance, including Third Coast Comedy Club, Corsair Distillery &amp; Taproom, and Barista Parlor.</p>
+<p>Homes in Marathon Village are mostly single-household properties located south of the Marathon Motor Works building, with prices typically ranging from $400,000 to $700,000.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>Marathon Village Amenities</h3>
+<ul style="columns: 2;">
+<li>William Collier's Bar</li>
+<li>Grinder's Switch Winery</li>
+<li>Bang Candy Company</li>
+<li>Nelson's Green Brier Distillery</li>
+<li>Slumerican Barber &amp; Tattoo</li>
+<li>Watkins Community Center</li>
+</ul>
+</div>
+<h2 class="nmls-housing">Melrose</h2>
+<p><strong>With an array of local shops and services all within walking distance, Melrose offers residents easy access to a convenient urban lifestyle.</strong> The neighborhood is located southeast of Vanderbilt University, close to the I-65 and Four-Forty Parkway intersection. To reach the campus, locals can head north on Franklin Pike, then west on <a title="Wedgewood Houston Homes for Sale" href="/wedgewood-houston-area.php">Wedgewood Avenue</a>, and get there in 10 minutes by car or bike.</p>
+<p>8th Avenue South is the neighborhood's main strip, where locals can find all of the essentials, including fitness studios, drug stores, groceries, and coffee shops. Convenient amenities located on the strip include a Publix Supermarket, a Walgreens, and Orangetheory Fitness. There are also banks, groomers, and gas stations nearby. The area's most popular nightlife spots are Melrose Billiard Parlor, M.L. Rose Craft Beer &amp; Burgers, and Craft Brewed. For the best grub in Melrose, locals can walk to Hattie B's Hot Chicken, Mangia Italian, and the upscale Sinema restaurant, housed in the historic Melrose Theater.</p>
+<p><a title="Melrose Homes for Sale" href="/melrose-8th-ave-s.php">Homes in Melrose</a> include classic Craftsman-style bungalows mixed in with modern condominiums and newly built single-household properties. Home prices vary widely depending on the size, age, and property type, with condos starting at around $250,000 and detached homes ranging from $700,000 to $2 million.</p>
+<div class="hw-cutout" style="clear: both;">
+<h3>Melrose Amenities</h3>
+<ul style="columns: 2;">
+<li>Kroger Supermarket</li>
+<li>GetFit Anytime</li>
+<li>Just Love Coffee</li>
+<li>Las Palms Restaurant</li>
+<li>Dolce Vita Pizza</li>
+<li>Patina + Co Antiques</li>
+<li>Throwback Thursday Vintage</li>
+</ul>
+</div>
+<h2 class="nmls-housing">Buy a Home Near Vanderbilt University for Access to Nashville Hotspots &amp; Local Convenience</h2>
+<p>Living in the best Nashville neighborhoods near Vanderbilt University offers an exceptional experience with a blend of modern living and rich heritage. Embrace the rhythm of the city, from vibrant entertainment scenes to serene pockets of tranquility. These neighborhoods cater to every taste and preference, providing the perfect backdrop for an enriching life. Embrace the opportunity to call these thriving communities home and let <a href="/real-estate.php">Nashville real estate</a> charm and captivate you.</p>
+<style>
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OX-hpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OVuhpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXuhpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUehpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0370-03FF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXehpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OXOhpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), local('OpenSans-Light'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN_r8OUuhpKKSTjw.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWJ0bf8pkAp6a.woff2) format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFUZ0bf8pkAp6a.woff2) format('woff2');
+	unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWZ0bf8pkAp6a.woff2) format('woff2');
+	unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVp0bf8pkAp6a.woff2) format('woff2');
+	unicode-range: U+0370-03FF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFWp0bf8pkAp6a.woff2) format('woff2');
+	unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFW50bf8pkAp6a.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0bf8pkAg.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOX-hpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOVuhpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXuhpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUehpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0370-03FF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXehpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOXOhpKKSTj5PW.woff2) format('woff2');
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v15/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+#hw-pillar p, #hw-pillar a, #hw-pillar h1, #hw-pillar h2, #hw-pillar h3, #hw-pillar h4, #hw-pillar h5, #hw-pillar h6, #hw-pillar ul, #hw-pillar li {
+	font-family: "Open Sans" !important;
+}
+
+#hw-pillar h1 {
+	text-align: center;
+	border-bottom: 1px solid #000;
+	margin-bottom: 15px;
+}
+
+#hw-pillar {
+	margin-bottom: 50px;
+}
+	
+#hw-pillar h2:after {
+	background-color: unset !important;
+}
+
+#hw-pillar p {
+	font-size: 18px;
+	line-height: 150%; 
+	margin-left: 30px;
+	font-weight: 300;
+}
+
+#hw-pillar ul {
+	margin-left: 60px;
+}
+
+#hw-pillar h2 {
+	color: #e02925;
+	width: 100%;
+	padding: 10px;
+	margin: 40px 0px;
+	background-repeat: no-repeat;
+	padding-left: 60px;
+	min-height: 40px;
+	background-position: center left 15px;
+	font-weight: bold;
+}
+
+#hw-pillar img {
+	padding: 10px;
+	background-color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+	#hw-pillar img {
+		display: block;
+		margin: 20px auto;
+		padding: unset;
+	}
+
+	#hw-pillar p {
+		margin-left: unset;
+	}
+}
+
+#hw-pillar h3 {
+	color: #e02925;
+	margin-left: 25px;
+    padding-left: 15px;
+}
+
+#hw-pillar h3 {
+	margin-bottom: 35px;
+	line-height: 1.65;
+	border-bottom: 1px solid #e02925;
+	font-size: 24px;
+}
+
+#hw-pillar a {
+	color: #e02925;
+}
+
+#hw-pillar h4 {
+	text-decoration: underline;
+	margin-bottom: 35px;
+	margin-left: 30px;
+}
+
+#hw-pillar .hw-toc {
+	background-color: #eee;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	max-width: 450px;
+	padding-left: 10px;
+	line-height: 140%;
+	font-size: 16px;
+	padding-bottom: 40px;
+}
+
+#hw-pillar .hw-toc h3 {
+	padding-left: 0px;
+	margin: 10px 0 20px 0;
+}
+
+#hw-pillar .toc-outer {
+	margin-left: 0px;
+}
+
+#hw-pillar .toc-middle {
+	margin-left: 10px;
+}
+
+#hw-pillar .toc-inner {
+	margin-left: 20px;
+}
+
+#hw-pillar .hw-toc ul {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+#hw-pillar .hw-toc ul li {
+	margin-bottom: 0px;
+}
+
+#hw-pillar .video-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+#hw-pillar .video-container iframe, #hw-pillar .video-container object, #hw-pillar .video-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+#hw-pillar table td, #hw-pillar table tr, #hw-pillar table th {
+	border: 2px solid #e02925;
+	padding: 5px;
+	text-align: center;
+}
+
+#hw-pillar table tr:nth-of-type(odd) {
+	background-color: #f7f7f7;
+}
+
+#hw-pillar table {
+	margin: 20px auto;
+}
+
+#hw-pillar .hw-pillar-table p {
+	text-align: center;
+	font-size: 12px;
+}
+
+/* all icons */
+
+.nmls-activities {
+	background-image: url("/uploads/agent-1/hw-nmls-activities.png");
+}
+
+.nmls-attractions {
+	background-image: url("/uploads/agent-1/hw-nmls-attractions.png");
+}
+
+.nmls-beaches {
+	background-image: url("/uploads/agent-1/hw-nmls-beaches.png");
+}
+
+.nmls-binoculars {
+	background-image: url("/uploads/agent-1/hw-nmls-binoculars.png");
+}
+
+.nmls-boating {
+	background-image: url("/uploads/agent-1/hw-nmls-boating.png");
+}
+
+.nmls-books {
+	background-image: url("/uploads/agent-1/hw-nmls-books.png");
+}
+
+.nmls-childcare {
+	background-image: url("/uploads/agent-1/hw-nmls-childcare.png");
+}
+
+.nmls-climate {
+	background-image: url("/uploads/agent-1/hw-nmls-climate.png");
+}
+
+.nmls-cold {
+	background-image: url("/uploads/agent-1/hw-nmls-cold.png");
+}
+
+.nmls-cost-of-living {
+	background-image: url("/uploads/agent-1/hw-nmls-cost-of-living.png");
+}
+
+.nmls-dining {
+	background-image: url("/uploads/agent-1/hw-nmls-dining.png");
+}
+
+.nmls-dogs {
+	background-image: url("/uploads/agent-1/hw-nmls-dogs.png");
+}
+
+.nmls-driving {
+	background-image: url("/uploads/agent-1/hw-nmls-driving.png");
+}
+
+.nmls-economy {
+	background-image: url("/uploads/agent-1/hw-nmls-economy.png");
+}
+
+.nmls-fitness {
+	background-image: url("/uploads/agent-1/hw-nmls-fitness.png");
+}
+
+.nmls-food {
+	background-image: url("/uploads/agent-1/hw-nmls-food.png");
+}
+
+.nmls-golfing {
+	background-image: url("/uploads/agent-1/hw-nmls-golfing.png");
+}
+
+.nmls-healthcare {
+	background-image: url("/uploads/agent-1/hw-nmls-healthcare.png");
+}
+
+.nmls-housing {
+	background-image: url("/uploads/agent-1/hw-nmls-housing.png");
+}
+
+.nmls-jobs {
+	background-image: url("/uploads/agent-1/hw-nmls-jobs.png");
+}
+
+.nmls-kids {
+	background-image: url("/uploads/agent-1/hw-nmls-kids.png");
+}
+
+.nmls-culture {
+	background-image: url("/uploads/agent-1/hw-nmls-culture.png");
+}
+
+.nmls-mountains {
+	background-image: url("/uploads/agent-1/hw-nmls-mountains.png");
+}
+
+.nmls-moving {
+	background-image: url("/uploads/agent-1/hw-nmls-moving.png");
+}
+
+.nmls-music {
+	background-image: url("/uploads/agent-1/hw-nmls-music.png");
+}
+
+.nmls-outdoors {
+	background-image: url("/uploads/agent-1/hw-nmls-outdoors.png");
+}
+
+.nmls-public-transit {
+	background-image: url("/uploads/agent-1/hw-nmls-public-transit.png");
+}
+
+.nmls-schools {
+	background-image: url("/uploads/agent-1/hw-nmls-schools.png");
+}
+
+.nmls-shopping {
+	background-image: url("/uploads/agent-1/hw-nmls-shopping.png");
+}
+
+.nmls-skyline {
+	background-image: url("/uploads/agent-1/hw-nmls-skyline.png");
+}
+
+.nmls-traffic {
+	background-image: url("/uploads/agent-1/hw-nmls-traffic.png");
+}
+
+.nmls-walking {
+	background-image: url("/uploads/agent-1/hw-nmls-walking.png");
+}
+
+.nmls-water {
+	background-image: url("/uploads/agent-1/hw-nmls-water.png");
+}
+
+.nmls-sports {
+	background-image: url("/uploads/agent-1/hw-nmls-sports.png");
+}
+
+/*downtown driving guide*/
+
+h3.hw-icon {
+	background-repeat: no-repeat;
+	background-position: center left 15px;
+	padding-left: 65px !important;
+	clear: both;
+}
+
+.hw-pillar-left {
+	padding: 20px 20px 20px 0;
+	float: left;
+}
+
+@media screen and (max-width: 500) {
+	.hw-pillar-left {
+		float: unset;
+		display: block;
+		padding: unset;
+		margin: 20px auto;
+	}
+}
+
+/*cost of living guide*/
+
+.hw-pillar-chart {
+	margin: 30px 0 100px 0;
+}
+
+@media only screen and (min-width: 600px) {
+	.hw-pillar-chart {
+		height: 400px;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.hw-pillar-chart {
+		height: 300px;
+		margin: 30px 0 50px 0;
+	}
+}
+
+#hw-pillar .hw-pillar-chart h4 {
+	border-bottom: none !important;
+	text-decoration: none !important;
+	text-align: center;
+	font-size: 16px;
+}
+
+/*moving guide*/
+
+.hw-cutout {
+	background-color: #f3f3f3;
+    padding: 10px;
+    border: 1px solid #e02925;
+    line-height: unset;
+    margin-bottom: 40px;
+}
+
+.hw-cutout h3 {
+	margin-bottom: 10px !important;
+}
+
+.hw-cutwrap ul {
+	columns: 3;
+}
+
+@media screen and (max-width: 768px) {
+	.hw-cutwrap ul {
+		columns: 2;
+	}
+
+	.hw-cutwrap li {
+		padding: 0 5px;
+	}
+
+	.hw-cutout ul {
+		margin-left: 0 !important;
+	}
+}
+
+@media screen and (max-width: 650px) {
+	.hw-cutwrap ul {
+		columns: 1;
+	}
+}
+
+/* best of guide */
+	
+.hw-backdrop:nth-of-type(odd) {
+	text-align: right;
+}
+
+#hw-pillar .hw-areaguide {
+	padding: 0 30px 30px 0;
+	float: left;
+	max-width: 425px;
+	width: 100%;
+}
+
+#hw-pillar .hw-areaguide ul li::before {
+	content: "✔";
+	color: #08aa0e;
+	margin-right: 10px;
+}
+
+#hw-pillar .hw-areaguide ul li {
+	list-style-type: none;
+	padding: 10px;
+}
+
+#hw-pillar .hw-areaguide ul {
+	font-size: 18px;
+	padding-left: 10px;
+}
+
+#hw-pillar .hw-areaguide h3, #hw-pillar .hw-standout h3 {
+	color: #e02925;
+	text-align: center;
+	font-size: 22px;
+	margin-top: 7px;
+	margin-left: unset !important;
+}
+
+#hw-pillar .hw-standout {
+	background-color: #f7f7f7;
+	border: 1px solid #ccc;
+	border-radius: 25px;
+	padding: 15px;
+}
+
+#hw-pillar .hw-standout-container {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}
+
+h2.hw-backdrop {
+	clear: both;
+}
+
+.hw-standout {
+	clear: both;
+}
+
+#hw-pillar .hw-standout-container>div {
+	width: 100%;
+	max-width: 24%;
+}
+
+#hw-pillar .hw-standout h4 {
+	margin-top: 0;
+	margin-left: unset !important;
+	text-align: center;
+}
+
+#hw-pillar .hw-standout ul {
+	margin-left: 0;
+	text-align: center;
+	list-style-type: none;
+	padding-left: 0;
+}
+
+#hw-pillar .hw-standout>div {
+	margin: 3px;
+}
+
+@media only screen and (max-width: 800px) {
+
+	#hw-pillar .hw-standout-container {
+		flex-wrap: wrap;
+	}
+	
+	#hw-pillar .hw-standout-container>div {
+		width: 100%;
+		max-width: 50%;
+	}
+	
+	#hw-pillar .hw-areaguide {
+		float: unset;
+		display: block;
+		margin: 20px auto;
+		padding: unset;
+		width: fit-content;
+	}
+	
+	#hw-pillar .hw-areaguide ul {
+		columns: 2;
+		display: block;
+		margin: 0 auto;
+	}
+	
+	#hw-pillar .hw-areaguide ul li {
+		padding: 10px 0;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	
+	#hw-pillar .hw-standout-container>div {
+		width: 100%;
+		max-width: 100%;
+	}
+	
+	#hw-pillar .hw-areaguide ul {
+		columns: 1;
+	}
+	
+	#hw-pillar .hw-areaguide-inside {
+		width: 100%;
+	}
+
+	.hw-areaguide-inside:first-child {
+		position: relative;
+		padding-bottom: 56.25%;
+		padding-top: 30px;
+		height: 0;
+	}
+
+	.hw-areaguide-inside:first-child iframe, .hw-areaguide-inside:first-child object, .hw-areaguide-inside:first-child embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+}
+
+#hw-pillar > .hw-backdrop {
+	width: unset !important;
+	min-height: unset !important;
+	padding: 40px 20px !important;
+	background-size: cover !important;
+	background-position: center center !important;
+	color: #fff !important;
+	border-radius: 20px;
+}
+
+/*header images*/
+
+.nmls-activities-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-activities-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-activities-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-activities-2.jpg");
+}
+
+.nmls-activities-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-activities-3.jpg");
+}
+
+.nmls-activities-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-activities-4.jpg");
+}
+
+.nmls-activities-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-activities-5.jpg");
+}
+
+.nmls-activities-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-activities-6.jpg");
+}
+
+.nmls-activities-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-activities-7.jpg");
+}
+
+.nmls-activities-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-activities-8.jpg");
+}
+
+.nmls-activities-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-activities-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-housing-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-2.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-3.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-4.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-5.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-6.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-7.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-8.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(9) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-9.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(10) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-1.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(11) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-2.jpg");
+	overflow: hidden;
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(12) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-3.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(13) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-4.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(14) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-5.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(15) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-6.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(16) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-housing-7.jpg");
+}
+
+.nmls-housing-w.hw-backdrop:nth-of-type(17) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-housing-8.jpg");
+}
+
+
+.nmls-housing-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-housing-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-golfing-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-golfing-2.jpg");
+}
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-golfing-3.jpg");
+}
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-golfing-4.jpg");
+}
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-golfing-5.jpg");
+}
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-golfing-6.jpg");
+}
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-golfing-7.jpg");
+}
+
+.nmls-golfing-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-golfing-8.jpg");
+}
+
+.nmls-golfing-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-golfing-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-shopping-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-shopping-2.jpg");
+}
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-shopping-3.jpg");
+}
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-shopping-4.jpg");
+}
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-shopping-5.jpg");
+}
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-shopping-6.jpg");
+}
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-shopping-7.jpg");
+}
+
+.nmls-shopping-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-shopping-8.jpg");
+}
+
+.nmls-shopping-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-shopping-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-attractions-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-attractions-2.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-attractions-3.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-attractions-4.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-attractions-5.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-attractions-6.jpg");
+}
+
+/*header images*/
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-attractions-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-attractions-2.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-attractions-3.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-attractions-4.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-attractions-5.jpg");
+}
+
+.nmls-attractions-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-attractions-6.jpg");
+}
+
+
+
+/*header images*/
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-outdoors-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-outdoors-2.jpg");
+}
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-outdoors-3.jpg");
+}
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-outdoors-4.jpg");
+}
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-outdoors-5.jpg");
+}
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-outdoors-6.jpg");
+}
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-outdoors-7.jpg");
+}
+
+.nmls-outdoors-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-outdoors-8.jpg");
+}
+
+.nmls-outdoors-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-outdoors-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-walking-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-walking-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-walking-2.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-walking-3.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-walking-4.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-walking-5.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-walking-6.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-walking-7.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-walking-8.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(9) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-walking-9.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(10) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-walking-10.jpg");
+}
+
+.nmls-walking-w.hw-backdrop:nth-of-type(11) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-walking-11.jpg");
+}
+
+.nmls-walking-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-walking-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+
+/*header images*/
+
+.nmls-music-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-music-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-music-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-music-2.jpg");
+}
+
+.nmls-music-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-music-3.jpg");
+}
+
+.nmls-music-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-music-4.jpg");
+}
+
+.nmls-music-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-music-5.jpg");
+}
+
+.nmls-music-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-music-6.jpg");
+}
+
+.nmls-music-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-music-7.jpg");
+}
+
+.nmls-music-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-music-8.jpg");
+}
+
+.nmls-music-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-music-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-dogs-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-dogs-2.jpg");
+}
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-dogs-3.jpg");
+}
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-dogs-4.jpg");
+}
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-dogs-5.jpg");
+}
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-dogs-6.jpg");
+}
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-dogs-7.jpg");
+}
+
+.nmls-dogs-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-dogs-8.jpg");
+}
+
+.nmls-dogs-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-dogs-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-water-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-water-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-water-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-water-2.jpg");
+}
+
+.nmls-water-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-water-3.jpg");
+}
+
+.nmls-water-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-water-4.jpg");
+}
+
+.nmls-water-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-water-5.jpg");
+}
+
+.nmls-water-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-water-6.jpg");
+}
+
+.nmls-water-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-water-7.jpg");
+}
+
+.nmls-water-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-water-8.jpg");
+}
+
+.nmls-water-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-water-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-kids-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-kids-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-kids-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-kids-2.jpg");
+}
+
+.nmls-kids-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-kids-3.jpg");
+}
+
+.nmls-kids-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-kids-4.jpg");
+}
+
+.nmls-kids-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-kids-5.jpg");
+}
+
+.nmls-kids-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-kids-6.jpg");
+}
+
+.nmls-kids-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-kids-7.jpg");
+}
+
+.nmls-kids-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-kids-8.jpg");
+}
+
+.nmls-kids-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-kids-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-dining-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-dining-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-dining-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-dining-2.jpg");
+}
+
+.nmls-dining-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-dining-3.jpg");
+}
+
+.nmls-dining-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-dining-4.jpg");
+}
+
+.nmls-dining-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-dining-5.jpg");
+}
+
+.nmls-dining-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-dining-6.jpg");
+}
+
+.nmls-dining-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-dining-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+/*header images*/
+
+.nmls-culture-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-culture-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-culture-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-culture-2.jpg");
+}
+
+.nmls-culture-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-culture-3.jpg");
+}
+
+.nmls-culture-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-culture-4.jpg");
+}
+
+.nmls-culture-w.hw-backdrop:nth-of-type(5) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-culture-5.jpg");
+}
+
+.nmls-culture-w.hw-backdrop:nth-of-type(6) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-culture-6.jpg");
+}
+
+.nmls-culture-w.hw-backdrop:nth-of-type(7) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-culture-7.jpg");
+}
+
+.nmls-culture-w.hw-backdrop:nth-of-type(8) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-culture-8.jpg");
+}
+
+.nmls-culture-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-culture-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+
+/*header images*/
+
+.nmls-sports-w.hw-backdrop:nth-of-type(1) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-sports-1.jpg");
+	overflow: hidden;
+}
+
+.nmls-sports-w.hw-backdrop:nth-of-type(2) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-sports-2.jpg");
+}
+
+.nmls-sports-w.hw-backdrop:nth-of-type(3) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.6)), url("/uploads/agent-1/hw-nmls-sports-3.jpg");
+}
+
+.nmls-sports-w.hw-backdrop:nth-of-type(4) {
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.0)), url("/uploads/agent-1/hw-nmls-sports-4.jpg");
+}
+
+.nmls-sports-w.hw-backdrop::before {
+	content: url("/uploads/agent-1/hw-nmls-sports-w.png");
+	height: 28px;
+	position: relative;
+	top: 7px;
+	padding: 0 10px;
+}
+
+</style> <p>If the opportunities of Nashville excite you, <strong><a href="/contact.php">contact The Ashton Real Estate Group</a> of RE/MAX Advantage with Nashville's MLS at <a href="tel:6156033602">(615) 603-3602</a> to get in touch with local real estate agents who can help find the perfect Nashville home for you today.</strong></p></div></div>
+
+			<div class="signature">
+			<p>&nbsp;</p>
+<p><img src="/uploads/agent-1/gary-ashton-headshot-2.jpg" alt="" width="108" height="135" /></p>
+<p>Gary Ashton</p>
+<p>The Ashton Real Estate Group of RE/MAX Advantage</p>
+<p>The #1 RE/MAX team in the World!</p>		</div>
+	
+	
+	
+	<div class="btnset">
+		<a class="btn print" rel="nofollow" target="_blank" href="https://www.nashvillesmls.com/blog/best-neighborhoods-near-vanderbilt-nashville-tn/print.html"><em class="icon-print"></em> Print</a>
+		<a class="btn share popup" href="https://www.nashvillesmls.com/blog/best-neighborhoods-near-vanderbilt-nashville-tn/share.html"><em class="icon-envelope"></em> Share</a>
+	</div>
+
+	<a name="comments"></a>
+
+	<div id="blog-comments">
+
+		
+		
+	</div>
+
+	
+		
+			<h3>Leave a Comment</h3>
+
+			<form action="?comment#blog-comments" method="post">
+
+				
+					<input class="hidden" name="email" autocomplete="blog_entry_email" value="">
+					<input class="hidden" name="first_name" autocomplete="blog_entry_first_name" value="">
+					<input class="hidden" name="last_name" autocomplete="blog_entry_last_name" value="">
+
+					<span class="field x6">
+						<label>Your Name</label>
+						<input name="comment_name" value="" required>
+					</span>
+
+					<span class="field x6 last">
+						<label>Your Email <small>(kept private)</small></label>
+						<input type="email" name="comment_email" value="" required>
+					</span>
+
+					<div class="field x12">
+						<label>Website <small>(optional)</small></label>
+						<input type="url" name="comment_website" value="" placeholder="http://">
+					</div>
+
+				
+				<div class="field x12">
+					<label>Comment</label>
+					<textarea cols="32" rows="5" name="comment" required></textarea>
+				</div>
+
+								
+				<div class="btnset">
+					<button type="submit" class="strong">Comment</button>
+				</div>
+
+			</form>
+
+		
+	
+					</div>
+
+					<aside id="sidebar">
+				<div class="social-share">
+	<a class="webicon facebook" href="https://www.facebook.com/theashtonrealestategroup" title="Find Us on Facebook" target="_blank">Facebook</a>
+	<a class="webicon twitter" href="https://twitter.com/garyashton" title="Find Us on Twitter" target="_blank">Twitter</a>
+	<a class="webicon linkedin" href="http://www.linkedin.com/profile/view?id=11587980" title="Find Us on LinkedIn" target="_blank">LinkedIn</a>
+	<a class="webicon youtube" href="https://www.youtube.com/channel/UCIn-55tFrX9yBXZDblRKgCg" title="Find Us on YouTube" target="_blank">YouTube</a>
+        <!-- <a class="webicon pinterest" href="#" title="Find Us on Pinterest" target="_blank">Pinterest</a> --> 	
+        <!-- <a class="webicon rss" href="/blog/rss/" title="Subscribe to RSS" target="_blank">RSS</a> -->
+</div><?php
+
+/**
+ * Set up your AddThis Social Networking Widget
+ * @see http://addthis.com/help/getting-started/code/
+ */
+
+?>
+
+<!-- AddThis Button BEGIN -->
+<div id="addthis-btns" style="margin:0 auto; text-align:center">
+	<script type="text/javascript">
+	   var addthis_pub = "YOUR-ACCOUNT-ID";
+	   var addthis_options = 'favorites, twitter, digg, delicious, myspace, google, facebook, stumbleupon, live, more';
+	</script>
+    <a href="https://www.addthis.com/bookmark.php" style="text-decoration:none;" onclick="return addthis_open(this, 'email', '[URL]', '[TITLE]');" ><img src="https://s7.addthis.com/button1-email.gif" width="54" height="16" border="0" alt="Email" /></a>
+    <a href="https://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="https://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="https://s7.addthis.com/js/200/addthis_widget.js#async=1"></script>
+</div>
+<!-- AddThis Button END -->
+
+<div class="cs-module cta-snippet joinus">
+      <div class="cs-module-title">
+            <h3>REALTORS: Join our team!</h3>
+            <h4><a href="/join-our-team.php">The Ashton Real Estate Group</a></h4>
+      </div>
+      <p>We're always looking for talented real estate agents to join our growing team. <BR>If you have an excellent knowledge of the Nashville Real Estate market and need extra business then we can help.</p>
+      <div class="btnset">
+             <a class="btn strong" href="/join-our-team.php" title="Contact Us">Contact Us</a>
+      </div><!--/.btnset-->
+</div><!--/.cta-snippet--><div class="module articleset posts">
+	<h3>Latest From Our Blog...</h3>
+			<article>
+			<header>
+				<h4><a href="/blog/living-in-antioch-nashville-tn.html" title="Living in Antioch: Suburban Living in Nashville TN">Living in Antioch: Suburban Living in Nashville TN</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-06-08T11:53:00-05:00">Monday, June 8th, 2026 at 11:53am</time></em>
+			</header>
+					    <p>
+
+
+Once considered a quiet suburb on the outskirts of Nashville, Antioch has undergone a remarkable transformation in recent years.... <a class="read-more" href="/blog/living-in-antioch-nashville-tn.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/selling-a-home-offering-seller-financing-pros-cons.html" title="What Is Seller Financing? Pros & Cons to Consider">What Is Seller Financing? Pros & Cons to Consider</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-06-03T07:19:00-05:00">Wednesday, June 3rd, 2026 at 7:19am</time></em>
+			</header>
+					    <p>
+
+
+For those considering seller financing, there are some key aspects to consider. While benefits like quick transactions and payme... <a class="read-more" href="/blog/selling-a-home-offering-seller-financing-pros-cons.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/thda-increases-down-payment-assistance-purchase-price-cap-in-nashville.html" title="THDA increases down payment assistance purchase price cap in Nashville">THDA increases down payment assistance purchase price cap in Nashville</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-05-30T11:14:00-05:00">Saturday, May 30th, 2026 at 11:14am</time></em>
+			</header>
+					    <p>
+
+
+
+First-time home buyers in Tennessee just got some encouraging news.
+
+
+The Tennessee Housing Development Agency, commonly know... <a class="read-more" href="/blog/thda-increases-down-payment-assistance-purchase-price-cap-in-nashville.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/moving-to-murfreesboro.html" title="Moving to Murfreesboro: 10 Reasons to Love Living in Murfreesboro">Moving to Murfreesboro: 10 Reasons to Love Living in Murfreesboro</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-05-28T08:33:00-05:00">Thursday, May 28th, 2026 at 8:33am</time></em>
+			</header>
+					    <p>
+
+
+Is Murfreesboro a Good Place to Live?
+
+
+Located in Rutherford County, the city of Murfreesboro is 200 years old city and still ... <a class="read-more" href="/blog/moving-to-murfreesboro.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/how-to-calculate-a-budget-for-closing-costs.html" title="Closing Costs in Tennessee: How Much Should You Budget For?">Closing Costs in Tennessee: How Much Should You Budget For?</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-05-27T09:51:00-05:00">Wednesday, May 27th, 2026 at 9:51am</time></em>
+			</header>
+					    <p>
+
+
+Buying a home can involve a lot of expenses to consider, including a down payment, fees, inspection costs, and more. What many p... <a class="read-more" href="/blog/how-to-calculate-a-budget-for-closing-costs.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/june-events-in-nashville-tn.html" title="June Events in Nashville TN [2026]">June Events in Nashville TN [2026]</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-05-22T09:37:00-05:00">Friday, May 22nd, 2026 at 9:37am</time></em>
+			</header>
+					    <p>
+
+
+June in Nashville is something else. The city doesn't just celebrate summer&mdash;it goes all in.
+
+
+This month brings world-cla... <a class="read-more" href="/blog/june-events-in-nashville-tn.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/selling-home-in-summer-tips.html" title="7 Tips for Selling a Home During Summer">7 Tips for Selling a Home During Summer</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-05-19T08:13:00-05:00">Tuesday, May 19th, 2026 at 8:13am</time></em>
+			</header>
+					    <p>
+
+
+When a homeowner knows they want to sell their home, they may spend a lot of time thinking about when the right time to sell is.... <a class="read-more" href="/blog/selling-home-in-summer-tips.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/nashville-economy.html" title="Nashville Economy: Top Industries, Biggest Employers, & Business Opportunities">Nashville Economy: Top Industries, Biggest Employers, & Business Opportunities</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-05-13T11:48:00-05:00">Wednesday, May 13th, 2026 at 11:48am</time></em>
+			</header>
+					    <p>
+
+
+Nashville is known the world over as the go-to place for music exploration. The city is famous for its many country and lesser-k... <a class="read-more" href="/blog/nashville-economy.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/buying-vs-renting-a-condo.html" title="Condo vs. Apartment: Should You Buy or Rent Your Home?">Condo vs. Apartment: Should You Buy or Rent Your Home?</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-05-01T08:14:00-05:00">Friday, May 1st, 2026 at 8:14am</time></em>
+			</header>
+					    <p>
+
+
+From lofts in restored historic buildings to gleaming high-rise condos with amazing views, it's no surprise that the condo lifes... <a class="read-more" href="/blog/buying-vs-renting-a-condo.html"  title="Read More">Read More</a></p>
+		</article>
+			<article>
+			<header>
+				<h4><a href="/blog/4-questions-to-ask-a-real-estate-agent-before-working-with-them.html" title="What Questions Should You Ask a Real Estate Agent Before Hiring Them?">What Questions Should You Ask a Real Estate Agent Before Hiring Them?</a></h4>
+				<em><time itemprop="datePublished" datetime="2026-04-28T10:40:00-05:00">Tuesday, April 28th, 2026 at 10:40am</time></em>
+			</header>
+					    <p>
+
+
+There are many benefits to hiring a real estate agent, but the wrong agent can cost you thousands of dollars&mdash;or the home y... <a class="read-more" href="/blog/4-questions-to-ask-a-real-estate-agent-before-working-with-them.html"  title="Read More">Read More</a></p>
+		</article>
+	</div>	<div class="module nav">
+		<header><h4>Blog Navigation</h4></header>
+		<ul class="nav">
+							<li><a href="https://www.nashvillesmls.com/blog/" title="All Categories">All Categories</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/the-1-remax-team-in-tn/" title="The #1 RE/MAX Team in the World!">The #1 RE/MAX Team in the World!</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/moving-guides/" title="Moving Guides">Moving Guides</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/commercial-real-estate/" title="Commercial Real Estate">Commercial Real Estate</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/start-your-real-estate-career/" title="Start Your Real Estate Career">Start Your Real Estate Career</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/tennessee-lifestyle-guides/" title="Tennessee Lifestyle Guides">Tennessee Lifestyle Guides</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/general-real-estate/" title="General Real Estate">General Real Estate</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/buying-a-home/" title="Buying a Home">Buying a Home</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/selling-a-home/" title="Selling a Home">Selling a Home</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/home-improvement/" title="Home Improvement">Home Improvement</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-belle-meade/" title="Living in Belle Meade">Living in Belle Meade</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-brentwood/" title="Living in Brentwood">Living in Brentwood</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-clarksville/" title="Living in Clarksville">Living in Clarksville</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-franklin/" title="Living in Franklin">Living in Franklin</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-gallatin/" title="Living in Gallatin">Living in Gallatin</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-hendersonville/" title="Living in Hendersonville">Living in Hendersonville</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-murfreesboro/" title="Living in Murfreesboro">Living in Murfreesboro</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-nashville/" title="Living In Nashville">Living In Nashville</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/living-in-tennessee/" title="Living In Tennessee">Living In Tennessee</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/moving-to/" title="Moving To">Moving To</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/nashville-events/" title="Nashville Events ">Nashville Events </a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/restaurants-and-food-in-nashville-tn/" title="Restaurants and food in Nashville TN">Restaurants and food in Nashville TN</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/education/" title="Education">Education</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/condos-in-the-gulch/" title="Condos in The Gulch">Condos in The Gulch</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/east-nashville/" title="East Nashville">East Nashville</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/nashville-foreclosure-homes/" title="Nashville Foreclosure Homes">Nashville Foreclosure Homes</a>
+									</li>
+					</ul>
+	</div>
+	<div class="module nav">
+		<header><h4>Blogroll</h4></header>
+		<ul class="nav">
+							<li><a href="https://www.nashvillesmls.com/about.php" target="_blank" title="The Ashton Real Estate Group of RE/MAX ADVANTAGE">The Ashton Real Estate Group of RE/MAX ADVANTAGE</a>
+									</li>
+					</ul>
+	</div>
+	<div class="module nav">
+		<header><h4>Archives</h4></header>
+		<ul class="nav">
+							<li><a href="https://www.nashvillesmls.com/blog/2026-06/" title="June 2026">June 2026</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2026-05/" title="May 2026">May 2026</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2026-04/" title="April 2026">April 2026</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2026-03/" title="March 2026">March 2026</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2026-02/" title="February 2026">February 2026</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2026-01/" title="January 2026">January 2026</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-12/" title="December 2025">December 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-11/" title="November 2025">November 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-10/" title="October 2025">October 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-09/" title="September 2025">September 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-08/" title="August 2025">August 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-07/" title="July 2025">July 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-06/" title="June 2025">June 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-04/" title="April 2025">April 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-03/" title="March 2025">March 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-02/" title="February 2025">February 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2025-01/" title="January 2025">January 2025</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-12/" title="December 2024">December 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-11/" title="November 2024">November 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-10/" title="October 2024">October 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-09/" title="September 2024">September 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-08/" title="August 2024">August 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-07/" title="July 2024">July 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-06/" title="June 2024">June 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-05/" title="May 2024">May 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-04/" title="April 2024">April 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-03/" title="March 2024">March 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-02/" title="February 2024">February 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2024-01/" title="January 2024">January 2024</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-12/" title="December 2023">December 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-11/" title="November 2023">November 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-10/" title="October 2023">October 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-09/" title="September 2023">September 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-08/" title="August 2023">August 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-07/" title="July 2023">July 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-06/" title="June 2023">June 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-05/" title="May 2023">May 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-04/" title="April 2023">April 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-03/" title="March 2023">March 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-02/" title="February 2023">February 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2023-01/" title="January 2023">January 2023</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-12/" title="December 2022">December 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-11/" title="November 2022">November 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-10/" title="October 2022">October 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-09/" title="September 2022">September 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-08/" title="August 2022">August 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-07/" title="July 2022">July 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-06/" title="June 2022">June 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-05/" title="May 2022">May 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-04/" title="April 2022">April 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-03/" title="March 2022">March 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-02/" title="February 2022">February 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2022-01/" title="January 2022">January 2022</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-12/" title="December 2021">December 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-11/" title="November 2021">November 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-10/" title="October 2021">October 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-09/" title="September 2021">September 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-08/" title="August 2021">August 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-07/" title="July 2021">July 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-06/" title="June 2021">June 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-05/" title="May 2021">May 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-04/" title="April 2021">April 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-03/" title="March 2021">March 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-02/" title="February 2021">February 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2021-01/" title="January 2021">January 2021</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-11/" title="November 2020">November 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-09/" title="September 2020">September 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-08/" title="August 2020">August 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-07/" title="July 2020">July 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-06/" title="June 2020">June 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-05/" title="May 2020">May 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-04/" title="April 2020">April 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-03/" title="March 2020">March 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-02/" title="February 2020">February 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2020-01/" title="January 2020">January 2020</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-12/" title="December 2019">December 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-11/" title="November 2019">November 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-10/" title="October 2019">October 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-09/" title="September 2019">September 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-08/" title="August 2019">August 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-07/" title="July 2019">July 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-06/" title="June 2019">June 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-05/" title="May 2019">May 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-04/" title="April 2019">April 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-03/" title="March 2019">March 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-02/" title="February 2019">February 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2019-01/" title="January 2019">January 2019</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2018-12/" title="December 2018">December 2018</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2018-11/" title="November 2018">November 2018</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2018-10/" title="October 2018">October 2018</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2018-09/" title="September 2018">September 2018</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2018-08/" title="August 2018">August 2018</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2018-07/" title="July 2018">July 2018</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2016-12/" title="December 2016">December 2016</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2015-12/" title="December 2015">December 2015</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2013-02/" title="February 2013">February 2013</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2013-01/" title="January 2013">January 2013</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2012-10/" title="October 2012">October 2012</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2012-08/" title="August 2012">August 2012</a>
+									</li>
+							<li><a href="https://www.nashvillesmls.com/blog/2012-05/" title="May 2012">May 2012</a>
+									</li>
+					</ul>
+	</div>
+			</aside>
+		
+	</div>
+</div>
+
+							<footer id="foot">
+					<div class="wrap">
+													<div class="row"><div class="nav">  <h4>Community Listings</h4><ul class="sub-menu community">  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1917977-1311-coates-lane-pn9-gallatin-tn-37066/" class="info-links" id="vdi-1917977">1311 Coates Lane (pn9) Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1917981-1344-coates-lane-pn31-gallatin-tn-37066/" class="info-links" id="vdi-1917981">1344 Coates Lane (pn31) Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1917986-1340-coates-lane-pn32-gallatin-tn-37066/" class="info-links" id="vdi-1917986">1340 Coates Lane (pn32) Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1917995-1367-coates-lane-pn20-gallatin-tn-37066/" class="info-links" id="vdi-1917995">1367 Coates Lane (pn20) Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1918062-548-peach-valley-rd-gallatin-tn-37066/" class="info-links" id="vdi-1918062">548 Peach Valley Rd Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1918124-2047-westburn-pvt-lane-lot-27-gallatin-tn-37066/" class="info-links" id="vdi-1918124">2047 Westburn Pvt Lane, Lot #27 Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1918125-2007-westburn-pvt-lane-lot-17-gallatin-tn-37066/" class="info-links" id="vdi-1918125">2007 Westburn Pvt Lane, Lot #17 Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1918129-289-chancery-drive-lot-59-gallatin-tn-37066/" class="info-links" id="vdi-1918129">289 Chancery Drive, Lot #59 Gallatin</a></li>  <li><a href="https://www.nashvillesmls.com/listing-realtracs-vow/1918133-885-fairington-way-gallatin-tn-37066/" class="info-links" id="vdi-1918133">885 Fairington Way Gallatin</a></li></ul></div></div>							<div class="row">
+									<div class="testimonial">
+
+					<h4>Our Clients are Saying&hellip;</h4>
+		
+					<blockquote>
+				<p>"Working with Brad to both buy and sell a home was a pure joy. He was the consummate professional. I feel like we had an agent who truly had our best interest at&hellip;</p>
+				<small>Julie Hatvany</small>			</blockquote>
+		
+		
+	</div>
+								<div class="nav nav1">
+	<h4>Popular</h4>
+
+<ul class="sub-menu">
+<li><a href="/belle-meade-tennessee-real-estate.php">Belle Meade</a></li>
+<li><a href="/brentwood-tennessee-real-estate.php">Brentwood</a></li>
+<li><a href="/bethpage-tennessee-real-estate.php">Bethpage</a></li>
+<li><a href="/franklin-tennessee-real-estate.php">Franklin</a></li>
+<li><a href="/gallatin-tennessee-real-estate.php">Gallatin</a></li>
+<li><a href="/green-hills-real-estate.php">Green Hills</a></li>
+  
+<li><a href="/hendersonville-tennessee-real-estate.php">Hendersonville</a></li>
+<li><a href="/hillsboro-village-real-estate.php">Hillsboro Village</a></li>
+<li><a href="/lebanon-real-estate.php">Lebanon</a></li>
+<li><a href="/mount-juliet-tennessee-real-estate.php">Mount Juliet</a></li>
+<li><a href="/murfreesboro-tennessee-real-estate.php">Murfreesboro</a></li>
+<li><a href="/real-estate.php">Nashville</a></li>
+<li><a href="/portland-tennessee-real-estate.php">Portland</a></li>
+<li><a href="/whitehouse-tennessee-real-estate.php">White House</a></li>
+  
+</ul>
+
+</div>
+<!--
+<div class="nav nav2">
+	<h4>Buying</h4>
+	<ul>
+		<li><a href="/about.php">About Us</a></li>
+		<li><a href="/agents.php">Our Agents</a></li>
+		<li><a href="/listings.php">Our Listings</a></li>
+		<li><a href="/featured-listings.php">Featured Listings</a></li>
+		<li><a href="/testimonials.php">Client Testimonials</a></li>
+		<li><a href="/guarantee.php">Our Guarantee</a></li>
+	</ul>
+</div>
+-->
+<div class="contact" itemscope itemtype="http://schema.org/RealEstateAgent">
+    <h3>Contact Us</h3>
+
+    <strong>The Ashton Real Estate Group of RE/MAX Advantage</strong><br />
+    <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+     <span itemprop="streetAddress">210 12th Ave South, Suite 201</span><br />
+    <span itemprop="addressLocality">Nashville, TN</span>, <span itemprop="postalCode">37203</span>
+    </span>
+    <br><br>
+    <strong>Toll Free: (800) 668-6306</strong><br />
+    Direct: <span  itemprop="telephone">(615) 301 1631</span><br>
+    Office: <span  itemprop="telephone">(615) 301 1650</span><br>
+    Fax: <span  itemprop="faxNumber">(888) 803-6505</span>
+    <br>Each RE/MAX office is independently owned and operated<br>
+
+    <a href="https://www.nashvillesmls.com/privacy-policy.php">Privacy Policy</a><br>
+    <a href="https://www.nashvillesmls.com/sitemap.php">Site Map</a>
+</div>							</div>
+												<div class="copyright">
+							&copy; Copyright 2026, <a href="http://www.realestatewebmasters.com/" rel="nofollow" target="_blank">Real Estate Webmasters</a>.
+							<a href="/idx/sitemap.html?p=29">Listings Site Map</a>							<!--							REWMOD KANE LEE 31NOV2023 - ADA - FOOTER RSS ALT TEXT-->
+							<a href="/blog/rss/"><img alt="RSS logo" src="/thumbs/14x14/inc/skins/brew/modules/social-share/img/flat/webicon-rss.png"></a><!--							REWMOD KANE LEE ENDS-->
+														License Number: 00278725<BR><P>
+
+NashvillesMLS.com is not a multiple listing service (MLS) and does not provide direct access to the MLS. The data on this site comes from the RealTrac's MLS Internet Data Exchange (IDX) program and includes 99.5% of all active listings in the Middle Tennessee Regional Multiple Listing Service.
+
+
+</p>						</div>
+					</div>
+				</footer>
+					</div>
+
+		<script>
+var cb = function() {
+    var l = null;
+    var h = null;
+
+    
+        l = document.createElement('link'); l.rel = 'stylesheet';
+        l.href = '/inc/cache/css/static.41e2edf05c9fff11b0061e0534ce62d0.4.7.7.6.css';
+        h = document.getElementsByTagName('head')[0];
+        h.appendChild(l);
+
+    };
+
+var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+webkitRequestAnimationFrame || msRequestAnimationFrame;
+if (raf) raf(cb);
+else window.addEventListener('load', cb);
+</script>
+
+
+<!-- Begin Widget Tracker Code -->
+<script>
+    setTimeout(function () {
+        (function (w, i, d, g, e, t) {
+            w["WidgetTrackerObject"] = g;
+            (w[g] = w[g] || function () {
+                (w[g].q = w[g].q || []).push(arguments);
+            }), (w[g].ds = 1 * new Date());
+            (e = "script"),
+                (t = d.createElement(e)), (e = d.getElementsByTagName(e)[0]);
+            t.async = 1;
+            t.src = i;
+            e.parentNode.insertBefore(t, e);
+        })
+        (window, "/inc/skins/lec-2013/js/widgetbe/agent.php?1781043976", document, "widgetTracker");
+        window.widgetTracker("create", "WT-DTSPEPRY");
+        window.widgetTracker("send", "pageview");
+    }, 3000);
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="https://eia.followupboss.com/embeddedApps-v1.0.1.js"></script>
+<script src="/inc/cache/js/static.5cb825446ff7649c6a93d6f3e6472043.4.7.7.6.js"></script>
+<script>
+(function(){var className=(!!document.createElementNS&&!!document.createElementNS('http://www.w3.org/2000/svg','svg').createSVGRect)?'svg':'no-svg';$('html').addClass(className);})();$(function(){$('a.page-summary').bind('click',function(){$('#page-summary').slideToggle();});$('a.page-summary-close').bind('click',function(){$('#page-summary').slideToggle();});});(function(){var className=(!!document.createElementNS&&!!document.createElementNS('http://www.w3.org/2000/svg','svg').createSVGRect)?'svg':'no-svg';$('html').addClass(className);})();</script>
+
+<!--[if (gte IE 6)&(lte IE 8)]><script src="/inc/skins/brew/js/selectivizr-min.js"></script><![endif]-->
+
+<!-- user way . org -->
+<script data-account="jaGHoedTcf" src="https://cdn.userway.org/widget.js"></script>
+
+<!-- hellobar.com -->
+<script type="text/javascript" charset="utf-8" async="async" src="https://my.hellobar.com/86522ceba8ab06e505817c18954a27f933326302.js"></script>
+		
+		<script>
+						$(function() {
+				$('img.lazy').lazyload({
+					effect: '',
+					threshold: 50,
+					skip_invisible : false,
+				});
+			});
+		</script>
+
+			</body>
+</html>

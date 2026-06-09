@@ -1,0 +1,5 @@
+SOURCE_ID: 8
+SOURCE_NAME: Student Housing in Nashville Guide
+SOURCE_KIND: web
+SOURCE_URL: https://thestudentsublet.com/blog/student-housing-nashville-guide
+======================================================================

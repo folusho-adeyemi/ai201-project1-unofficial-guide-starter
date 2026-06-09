@@ -34,6 +34,24 @@ Sources include Reddit discussions, student newspaper articles, housing guides, 
 | 8  | Student Housing in Nashville Guide                | Guide covering neighborhoods, pricing, and student housing considerations in Nashville. | https://thestudentsublet.com/blog/student-housing-nashville-guide                          |
 | 9  | What I Learned From My Off-Campus Apartment Hunt  | Student newspaper article describing the apartment search process and lessons learned.  | https://vanderbilthustler.com/2025/04/13/what-i-learned-from-my-off-campus-apartment-hunt/ |
 | 10 | Vanderbilt Off-Campus Housing Portal              | Official housing listing portal containing apartment listings and property information. | https://offcampushousing.vanderbilt.edu/                                                   |
+| 11 | Prked Vanderbilt Off-Campus Housing Guide         | Neighborhood-by-neighborhood guide (Hillsboro Village, Midtown, Elliston, Gulch) with pros/cons. | https://prked.com/post/vanderbilt-off-campus-housing-guide                          |
+| 12 | 8 Best Nashville Neighborhoods Near Vanderbilt    | Detailed breakdown of 8 neighborhoods near campus: amenities, vibe, pricing, commute.   | https://www.nashvillesmls.com/blog/best-neighborhoods-near-vanderbilt-nashville-tn.html    |
+| 13 | Where Should I Live Off Campus? (Vanderbilt Hustler) | Student-written guide reviewing specific apartment buildings near campus with pros/cons. | https://vanderbilthustler.com/2026/02/13/where-should-i-live-off-campus/                 |
+| 14 | 8 Best Neighborhoods Near Belmont University      | Neighborhood guide for Belmont students (Belmont/Hillsboro, 12 South, Edgehill, Melrose). | https://www.nashvillesmls.com/blog/best-neighborhoods-near-belmont-university.html        |
+| 15 | How Much Does It Cost to Live in Nashville        | Relocator rent-cost guide: realistic studio/1BR/2BR ranges by neighborhood tier.        | https://rentwithzachandkayla.com/blog/how-much-does-it-really-cost-to-move-into-a-nashville-apartment-in-2026 |
+| 16 | Moving to Nashville: Neighborhood Guide           | Honest neighborhood-by-neighborhood tradeoffs (East Nashville, 12 South, Sylvan Park).  | https://www.househavenrealty.com/blog/moving-to-nashville-2026                            |
+| 17 | Nashville Neighborhoods for Relocators            | Compares core neighborhoods by commute, lifestyle, housing type, and budget.            | https://dwalshhomes.com/blog/best-nashville-neighborhoods-for-relocating-professionals    |
+| 18 | Moving to Nashville Guide (Nashville Guru)        | Long-form guide covering Gulch, West End, Midtown, Hillsboro, Sylvan Park, and more.    | https://nashvilleguru.com/2071/moving-to-nashville-guide                                  |
+| 19 | Apartments Near Belmont University (AptAmigo)     | Apartment pricing and recommended neighborhoods near Belmont University.                | https://www.aptamigo.com/TN/Nashville/Apartments/apartments-near-belmont-university-nashville |
+| 20 | Apartments Near Tennessee State University (Amber) | Student apartment options and neighborhoods (Jefferson St, West End, Midtown) near TSU. | https://amberstudent.com/places/search/tennessee-state-university-2410078108302           |
+| 21 | TSU Alternate (Off-Campus) Housing Options        | Official TSU guidance on off-campus housing, target zip codes, and search resources.    | https://www.tnstate.edu/housing/alternatehousing.aspx                                     |
+
+> Sources 11–21 were added during Milestone 3: the originally chosen Reddit threads turned out
+> to be short (4–8 comments each), so the corpus needed more substantive, neighborhood-level
+> content to support precise retrieval. These guides auto-fetch (server-rendered HTML) and
+> broaden coverage across all three target schools (Vanderbilt, Belmont, TSU) plus rent costs
+> and commute/lifestyle tradeoffs. The cleaner strips reader-comment sections so general
+> relocation Q&A doesn't dilute the student-housing corpus.
 
 
 ---
@@ -138,6 +156,45 @@ Important context could be split between chunks if overlap is insufficient.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
 
+```
+                         THE UNOFFICIAL GUIDE — RAG PIPELINE
+                       (Off-campus housing near Nashville unis)
+
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 1. DOCUMENT INGESTION                                                      │
+  │    Reddit threads ── via .json endpoint (requests)                         │
+  │    Web guides/articles/portal ── requests + BeautifulSoup                  │
+  │    -> save raw text per source to documents/raw/*.txt  (consistent format) │
+  └──────────────────────────────┬───────────────────────────────────────────┘
+                                  │  raw .txt files
+                                  v
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 2. CLEANING + CHUNKING                                                     │
+  │    clean: strip HTML tags, nav/footers/cookie banners, share buttons,      │
+  │           "Read more" links, HTML entities (&amp; &nbsp;), boilerplate     │
+  │    chunk: 400-600 words, 75-100 word overlap, split on structure first     │
+  │           (Reddit -> per comment/group, guides -> per section heading)     │
+  │    -> documents/clean/*.txt and documents/chunks/chunks.jsonl              │
+  └──────────────────────────────┬───────────────────────────────────────────┘
+                                  │  chunks (+ source metadata)
+                                  v
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 3. EMBEDDING + VECTOR STORE                                                │
+  │    sentence-transformers all-MiniLM-L6-v2  ->  ChromaDB (persistent)       │
+  └──────────────────────────────┬───────────────────────────────────────────┘
+                                  │
+                                  v
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 4. RETRIEVAL          top-k = 5 nearest chunks (cosine) from ChromaDB      │
+  └──────────────────────────────┬───────────────────────────────────────────┘
+                                  │  query + retrieved chunks + sources
+                                  v
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │ 5. GENERATION         Groq LLM, grounded on retrieved chunks, cites source │
+  │                       Interface: Gradio / Streamlit                        │
+  └──────────────────────────────────────────────────────────────────────────┘
+```
+
 ---
 
 ## AI Tool Plan
@@ -153,6 +210,14 @@ Important context could be split between chunks if overlap is insufficient.
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+I will give Claude (in Cursor) my Documents section, my Chunking Strategy section, and the
+Architecture diagram above. I'll ask it to implement three scripts: `src/ingest.py` (loads all
+10 sources — Reddit via the `.json` endpoint, web pages via `requests` + BeautifulSoup — and
+writes raw text to `documents/raw/`), `src/clean.py` (strips HTML, nav, footers, cookie banners,
+share/"read more" links, and HTML entities while keeping the substantive review/guide text plus
+context like neighborhood and complex names), and `src/chunk.py` (structure-aware chunking at
+400–600 words with 75–100 word overlap). I'll verify by inspecting one cleaned document and 5
+representative chunks, and by confirming the total chunk count lands between 50 and 2,000.
 
 **Milestone 4 — Embedding and retrieval:**
 

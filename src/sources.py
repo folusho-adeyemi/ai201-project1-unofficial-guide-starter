@@ -1,0 +1,156 @@
+"""Document sources for The Unofficial Guide (off-campus housing near Nashville unis).
+
+Mirrors the Documents table in planning.md. `kind` tells the ingester how to
+fetch/parse a source: "reddit" uses Reddit's JSON endpoint, "web" uses an HTML
+scrape + boilerplate strip.
+"""
+
+SOURCES = [
+    {
+        "id": 1,
+        "slug": "vanderbilt_housing_discussion",
+        "name": "Vanderbilt Housing Discussion (Reddit)",
+        "kind": "reddit",
+        "url": "https://www.reddit.com/r/Vanderbilt/comments/1r39b3j/housing/",
+    },
+    {
+        "id": 2,
+        "slug": "offcampus_housing_culture",
+        "name": "Off-Campus Housing Culture Question (Reddit)",
+        "kind": "reddit",
+        "url": "https://www.reddit.com/r/Vanderbilt/comments/1pgpkql/offcampus_housing_culture_question/",
+    },
+    {
+        "id": 3,
+        "slug": "transfer_student_housing",
+        "name": "Transfer Student Housing Thread (Reddit)",
+        "kind": "reddit",
+        "url": "https://www.reddit.com/r/Vanderbilt/comments/1lbtw3s",
+    },
+    {
+        "id": 4,
+        "slug": "offcampus_housing_roommates",
+        "name": "Off-Campus Housing and Roommates (Reddit)",
+        "kind": "reddit",
+        "url": "https://www.reddit.com/r/Vanderbilt/comments/hcsa2x",
+    },
+    {
+        "id": 5,
+        "slug": "housing_recommendations",
+        "name": "Housing Recommendations (Reddit)",
+        "kind": "reddit",
+        "url": "https://www.reddit.com/r/Vanderbilt/comments/1krbrap",
+    },
+    {
+        "id": 6,
+        "slug": "grad_student_housing",
+        "name": "Graduate Student Housing Recommendations (Reddit)",
+        "kind": "reddit",
+        "url": "https://www.reddit.com/r/Vanderbilt/comments/1kh1ywm",
+    },
+    {
+        "id": 7,
+        "slug": "broadview_vs_oncampus",
+        "name": "Broadview vs On-Campus Housing (Reddit)",
+        "kind": "reddit",
+        "url": "https://www.reddit.com/r/Vanderbilt/comments/1kdkode",
+    },
+    {
+        "id": 8,
+        "slug": "student_housing_nashville_guide",
+        "name": "Student Housing in Nashville Guide",
+        "kind": "web",
+        "url": "https://thestudentsublet.com/blog/student-housing-nashville-guide",
+    },
+    {
+        "id": 9,
+        "slug": "offcampus_apartment_hunt_article",
+        "name": "What I Learned From My Off-Campus Apartment Hunt",
+        "kind": "web",
+        "url": "https://vanderbilthustler.com/2025/04/13/what-i-learned-from-my-off-campus-apartment-hunt/",
+    },
+    {
+        "id": 10,
+        "slug": "vanderbilt_offcampus_portal",
+        "name": "Vanderbilt Off-Campus Housing Portal",
+        "kind": "web",
+        "url": "https://offcampushousing.vanderbilt.edu/",
+    },
+    {
+        "id": 11,
+        "slug": "prked_vanderbilt_housing_guide",
+        "name": "Prked Vanderbilt Off-Campus Housing Guide",
+        "kind": "web",
+        "url": "https://prked.com/post/vanderbilt-off-campus-housing-guide",
+    },
+    {
+        "id": 12,
+        "slug": "nashvillesmls_8_neighborhoods",
+        "name": "8 Best Nashville Neighborhoods Near Vanderbilt",
+        "kind": "web",
+        "url": "https://www.nashvillesmls.com/blog/best-neighborhoods-near-vanderbilt-nashville-tn.html",
+    },
+    {
+        "id": 13,
+        "slug": "hustler_where_to_live_offcampus",
+        "name": "Where Should I Live Off Campus? (Vanderbilt Hustler)",
+        "kind": "web",
+        "url": "https://vanderbilthustler.com/2026/02/13/where-should-i-live-off-campus/",
+    },
+    {
+        "id": 14,
+        "slug": "nashvillesmls_belmont_neighborhoods",
+        "name": "8 Best Neighborhoods Near Belmont University",
+        "kind": "web",
+        "url": "https://www.nashvillesmls.com/blog/best-neighborhoods-near-belmont-university.html",
+    },
+    {
+        "id": 15,
+        "slug": "nashville_apartment_cost_guide",
+        "name": "How Much Does It Cost to Live in Nashville (Rent Guide)",
+        "kind": "web",
+        "url": "https://rentwithzachandkayla.com/blog/how-much-does-it-really-cost-to-move-into-a-nashville-apartment-in-2026",
+    },
+    {
+        "id": 16,
+        "slug": "househaven_moving_to_nashville",
+        "name": "Moving to Nashville: Neighborhood-by-Neighborhood Guide",
+        "kind": "web",
+        "url": "https://www.househavenrealty.com/blog/moving-to-nashville-2026",
+    },
+    {
+        "id": 17,
+        "slug": "dwalsh_nashville_neighborhoods",
+        "name": "Nashville Neighborhoods for Relocators",
+        "kind": "web",
+        "url": "https://dwalshhomes.com/blog/best-nashville-neighborhoods-for-relocating-professionals",
+    },
+    {
+        "id": 18,
+        "slug": "nashvilleguru_moving_guide",
+        "name": "Moving to Nashville Guide (Nashville Guru)",
+        "kind": "web",
+        "url": "https://nashvilleguru.com/2071/moving-to-nashville-guide",
+    },
+    {
+        "id": 19,
+        "slug": "aptamigo_belmont_apartments",
+        "name": "Apartments Near Belmont University (AptAmigo)",
+        "kind": "web",
+        "url": "https://www.aptamigo.com/TN/Nashville/Apartments/apartments-near-belmont-university-nashville",
+    },
+    {
+        "id": 20,
+        "slug": "amber_tsu_apartments",
+        "name": "Apartments Near Tennessee State University (Amber)",
+        "kind": "web",
+        "url": "https://amberstudent.com/places/search/tennessee-state-university-2410078108302",
+    },
+    {
+        "id": 21,
+        "slug": "tnstate_alternate_housing",
+        "name": "TSU Alternate (Off-Campus) Housing Options",
+        "kind": "web",
+        "url": "https://www.tnstate.edu/housing/alternatehousing.aspx",
+    },
+]

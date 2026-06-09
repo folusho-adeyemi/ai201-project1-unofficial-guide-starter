@@ -1,0 +1,101 @@
+SOURCE_ID: 8
+SOURCE_NAME: Student Housing in Nashville Guide
+SOURCE_KIND: web
+SOURCE_URL: https://thestudentsublet.com/blog/student-housing-nashville-guide
+======================================================================
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Student Sublet - Find Your Perfect Student Housing</title>
+    <meta name="description" content="The trusted marketplace for student subletting across North America. Find and post verified student housing near 450+ universities - free, safe, and easy." />
+    
+    <meta name="keywords" content="student sublet, student housing, university housing, college apartments, student rentals, sublease, campus housing, co-op housing, internship housing, study abroad housing" />
+    <meta name="author" content="The Student Sublet" />
+    
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://thestudentsublet.com" />
+    <meta property="og:title" content="The Student Sublet - Find Your Perfect Student Housing" />
+    <meta property="og:description" content="The trusted marketplace for student subletting across North America. Find and post student housing near your university - free, safe, and easy to use." />
+    <meta property="og:image" content="https://lhbgmigqpvlrqwrhlnwh.supabase.co/functions/v1/serve-og-image" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="The Student Sublet" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://thestudentsublet.com" />
+    <meta name="twitter:title" content="The Student Sublet - Find Your Perfect Student Housing" />
+    <meta name="twitter:description" content="The trusted marketplace for student subletting across North America. Find and post student housing near your university." />
+    <meta name="twitter:image" content="https://lhbgmigqpvlrqwrhlnwh.supabase.co/functions/v1/serve-og-image" />
+
+    <!-- Additional SEO -->
+    <meta name="robots" content="index, follow" />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="theme-color" content="#2563eb" />
+    <meta name="google-site-verification" content="QT27PPBmzNJoeI8qKzlz0ii6KviZ66Mq1UxUk2YtlmY" />
+    <link rel="icon" href="/favicon.png" type="image/png" />
+    <link rel="alternate" type="application/rss+xml" title="The Student Sublet Blog RSS Feed" href="https://lhbgmigqpvlrqwrhlnwh.supabase.co/functions/v1/blog-rss" />
+
+    <!-- Organization Schema for AI/GEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "The Student Sublet",
+      "url": "https://thestudentsublet.com",
+      "logo": "https://thestudentsublet.com/logo.png",
+      "description": "The trusted marketplace for student subletting across North America. Find and post student housing near 450+ universities.",
+      "foundingDate": "2024",
+      "areaServed": ["United States", "Canada"],
+      "serviceType": "Student Housing Marketplace",
+      "knowsAbout": ["Student Housing", "Subletting", "University Rentals", "Short-term Rentals"],
+      "slogan": "Find your home away from home",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "url": "https://thestudentsublet.com/contact"
+      }
+    }
+    </script>
+
+    <!-- WebSite Schema with SearchAction for AI/GEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "The Student Sublet",
+      "url": "https://thestudentsublet.com",
+      "description": "Find and post student sublets near universities across North America",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://thestudentsublet.com/search?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N55WJKR7SM"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-N55WJKR7SM');
+    </script>
+    <script type="module" crossorigin src="/assets/index-BMM_fEXT.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-pqFUVdNu.css">
+  <script defer src="/~flock.js" data-proxy-url="/~api/analytics"></script><script defer src="/__l5e/events.js" data-artifact-kind="preview_commit_sha" data-artifact-id="19a0c09b00ea7f08c92a3e0de2c7cc46157d6e2a" data-commit-sha="19a0c09b00ea7f08c92a3e0de2c7cc46157d6e2a" data-context-token="v1.eyJwcm9qZWN0X2lkIjoiNjZiOGU3NDMtMWRhNC00NWY0LTlhZTMtMjEzMGQ4MGRkN2ZhIiwiYXJ0aWZhY3Rfa2luZCI6InByZXZpZXdfY29tbWl0X3NoYSIsImFydGlmYWN0X2lkIjoiMTlhMGMwOWIwMGVhN2YwOGM5MmEzZTBkZTJjN2NjNDYxNTdkNmUyYSIsImNvbW1pdF9zaGEiOiIxOWEwYzA5YjAwZWE3ZjA4YzkyYTNlMGRlMmM3Y2M0NjE1N2Q2ZTJhIiwiZXhwIjoxNzgxMDQ3NTcwfQ.h3iERMyf7_0X4WSHyxiaJ-4qGE6QFNXQN_LRRAhaPmo"></script></head>
+
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

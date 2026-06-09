@@ -1,0 +1,1007 @@
+SOURCE_ID: 21
+SOURCE_NAME: TSU Alternate (Off-Campus) Housing Options
+SOURCE_KIND: web
+SOURCE_URL: https://www.tnstate.edu/housing/alternatehousing.aspx
+======================================================================
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head xmlns:ou="http://omniupdate.com/XSL/Variables">
+   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-N9NKJKF');//</script>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+   <meta http-equiv="content-language" name="language" content="en"/>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+   <meta name="author" content="Tennessee State University"/>
+   <title>Alternate Housing Options</title>
+   <meta name="keywords" content=""/>
+   <meta name="description"
+          content="This provides information on housing options outside of University Housing."/>
+   <meta name="author" content="Residence Life"/>
+   <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic|Merriweather:300,300italic|Lora:400,400italic"/>
+   <link href="/redesign/flair/css/testing.css"
+          rel="stylesheet"
+          type="text/css"/>
+   <link href="/redesign/flair/css/owl.carousel.css"
+          rel="stylesheet"
+          type="text/css"/>
+   <link href="/redesign/flair/css/owl.theme.css"
+          rel="stylesheet"
+          type="text/css"/>
+   <link href="/redesign/flair/css/owl.transitions.css"
+          rel="stylesheet"
+          type="text/css"/>
+   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+   <script src="https://code.jquery.com/jquery-1.11.0.min.js">//</script>
+   <script src="https://code.jquery.com/jquery-1.12.4.js"/>
+   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"/>
+   <script type="text/javascript" src="/scripts/jqueryCarousel.min.js">//</script>
+   <script type="text/javascript" src="/scripts/jqueryInternal.js">//</script>
+   <script type="text/javascript" src="/scripts/jquery.jalert.js">//</script>
+   <script type="text/javascript" src="/scripts/googleanalytics.js">//</script>
+   <script async="yes"
+            src="https://www.googletagmanager.com/gtag/js?id=G-WK0MVJ88H8">//</script>
+   <script type="text/javascript" src="/scripts/googleanalytics6.js">//</script>
+   <script type="text/javascript" src="/redesign/scripts/picturefill.js">//</script>
+   <script src="/redesign/scripts/modernizr.custom.40337.js">//</script>
+   <script type="text/javascript" src="/scripts/macStyles.js">//</script>
+   <script type="text/javascript" src="/scripts/search.js">//</script>
+   <link rel="stylesheet" href="/styles/jalert.css" type="text/css"/>
+   <!--[if lte IE 8]><link href="/styles/ie8.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+   <!--[if lte IE 7]><link href="/styles/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+   <!--[if IE 6]><link href="/styles/ie6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+   <!--[if IE 6]><script type="text/javascript" src="/scripts/unitpngfix.js">//</script><![endif] -->
+   <link rel="stylesheet"
+          type="text/css"
+          href="/styles/print.css"
+          media="print"/>
+   <link rel="stylesheet" href="/styles/jalert.css" type="text/css"/>
+   <!--[if IE 6]><link href="/styles/ie6Print.css" rel="stylesheet" type="text/css" media="print" /><![endif]-->
+   
+</head>
+<body xmlns:ou="http://omniupdate.com/XSL/Variables">
+   <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9NKJKF"
+               height="0"
+               width="0"
+               style="display:none;visibility:hidden">//</iframe>//</noscript>
+   <header id="site-header">
+      <div id="utility">
+         <style>
+	#results .gsc-results {
+/* Sets font for titles, snippets, and URLs. */
+font-family: arial, helvetica, sans-serif;
+}
+#results .gsc-result {
+position: relative;
+border: 1px solid #eee;
+border-left: 10px solid #eee;
+padding: 8px 8px 8px 20px;
+border-radius: 8px;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+}
+	</style>
+         <section class="utility-nav">
+            <div class="shift-right">
+               <br/>
+               <nav>
+                  <ul>
+                     <li>
+                        <a style="align:right;" href="/smart/" target="_blank">
+                           <img alt="hbcuc2" src="/images/btn_hbcuc2.png"/>
+                        </a>
+                     </li>
+                     <li>
+                        <a href="/access/">Access</a>
+                        <ul>
+                           <li>
+                              <a href="/banner-sys/">Banner(employees)</a>
+                           </li>
+                           <li>
+                              <a href="/advise/">EAB-Navigate</a>
+                           </li>
+                           <li>
+                              <a href="/elearn/" target="_blank">
+                                 <span class="lowercase">e</span>learn</a>
+                           </li>
+                           <li>
+                              <a href="/email/" target="_blank">email</a>
+                           </li>
+                           <li>
+                              <a href="/mytsu/" target="_blank">m<span class="lowercase">y</span>TSU</a>
+                           </li>
+                           <li>
+                              <a href="/cit/index.aspx">tech help</a>
+                           </li>
+                           <li style="color: white">_______________</li>
+                           <li>
+                              <a href="https://tnstate.curriculog.com/" target="_blank">curriculum mgmt</a>
+                           </li>
+                           <li>
+                              <a href="/ens/" target="_blank">emergency system</a>
+                           </li>
+                           <li>
+                              <a href="/events/index.aspx" target="_blank">event/room reservations</a>
+                           </li>
+                           <li>
+                              <a href="/hrsys/" target="_blank">hr system</a>
+                           </li>
+                           <li>
+                              <a href="/maintenance/" target="_blank">maintenance</a>
+                           </li>
+                           <li>
+                              <a href="/procure/" target="_blank">procurement</a>
+                           </li>
+                           <li>
+                              <a href="/elearn-rodp/" target="_blank">TN Online</a>
+                           </li>
+                           <li>
+                              <a href="/compliance/" target="_blank">univ accreditation</a>
+                           </li>
+                           <li>
+                              <a href="/assessmentsys/" target="_blank">univ assessment</a>
+                           </li>
+                           <li style="color: white">_______________</li>
+                           <li>
+                              <a href="/access/">other</a>
+                           </li>
+                        </ul>
+                     </li>
+                     <li>
+                        <a href="/directory/">directory</a>
+                     </li>
+                     <li>
+                        <a href="/map/">campus map</a>
+                     </li>
+                     <li>
+                        <div class="utility-search">
+                           <script async="yes" src="https://cse.google.com/cse.js?cx=170fd17c2d6424293">//</script>
+                           <div class="gcse-search"> </div>
+                        </div>
+                     </li>
+                  </ul>
+               </nav>
+            </div>
+         </section>
+      </div>
+      <div id="primaryNav">
+         <section class="primary-nav">
+            <div class="wrapper">
+               <div class="primary-logo">
+                  <a href="/index.aspx"> Tennessee State University </a>
+               </div>
+               <nav>
+                  <ul>
+                     <li>
+                        <a href="/academic_programs/index.aspx">academics</a>
+                        <div class="megamenu">
+                           <div class="menu-shift">
+                              <div class="mega-container">
+                                 <nav>
+                                    <ul>
+                                       <li>
+                                          <a href="/undergraduate/">Undergraduate</a>
+                                       </li>
+                                       <li>
+                                          <a href="/graduate/degrees.aspx">Graduate</a>
+                                       </li>
+                                       <li>
+                                          <a href="/atadistance/">Online / Distance Learning</a>
+                                       </li>
+                                       <li>
+                                          <a href="/admissions/transfer.aspx">Transfer</a>
+                                       </li>
+                                       <li>
+                                          <a href="/academic_programs/">High School / Other</a>
+                                       </li>
+                                       <li>
+                                          <hr/>
+                                       </li>
+                                       <li>
+                                          <a href="/smart/" target="_blank">SMART Tech Center</a>
+                                       </li>
+                                       <li>
+                                          <a href="/library/" target="_blank">libraries &amp; media centers</a>
+                                       </li>
+                                       <li>
+                                          <hr/>
+                                       </li>
+                                       <li>
+                                          <a href="/academic_programs/academic_calendar.aspx">academic calendar</a>
+                                       </li>
+                                       <li>
+                                          <a href="/academic_programs/academic_resources.aspx">catalog &amp; courses</a>
+                                       </li>
+                                       <li>
+                                          <a href="/studentsuccess/ftf.aspx">freshmen advising</a>
+                                       </li>
+                                    </ul>
+                                 </nav>
+                                 <div>
+                                    <p>You have unlimited possibilities for success at Tennessee State University. We’re a leading institution of higher learning and provide students with the opportunity to experience academic and personal growth. You’ll receive instruction from top-notch faculty and be immersed in research, service learning, and student life activities, including internships, cultural, and study abroad opportunities. </p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/admissions/">
+admissions &amp; aid
+</a>
+                        <div class="megamenu">
+                           <div class="menu-shift">
+                              <div class="mega-container">
+                                 <nav>
+                                    <ul>
+                                       <li>
+                                          <h1>Undergraduate</h1>
+                                       </li>
+                                       <li>
+                                          <a href="/requestinfo/">request information</a>
+                                       </li>
+                                       <li>
+                                          <a href="/apply/">apply to TSU</a>
+                                       </li>
+                                       <li>
+                                          <a href="/bursar/fees.aspx">tuition &amp; costs</a>
+                                       </li>
+                                       <li>
+                                          <a href="/financial_aid/">financial aid</a>
+                                       </li>
+                                       <li>
+                                          <a href="/visit/">campus tour</a>
+                                       </li>
+                                       <li>
+                                          <a href="/admissions/recruitment/">counselors</a>
+                                       </li>
+                                       <li>
+                                          <a href="/orientation/">orientation</a>
+                                       </li>
+                                       <li>
+                                          <a href="/admissions/contact.aspx">contact admissions</a>
+                                       </li>
+                                       <li>
+                                          <h1>Graduate</h1>
+                                       </li>
+                                       <li>
+                                          <a href="/graduate/">Graduate Admissions</a>
+                                       </li>
+                                    </ul>
+                                 </nav>
+                                 <div>
+                                    <p>Our world-class faculty will teach you how to apply what you learn in the classroom to real-world situations. As a student, you will become a problem solver and critical thinker. You may begin the admissions process by submitting your application. The university also assists in providing information on financial aid services, work-study, fellowships and scholarships based on eligibility and other rules and regulations established by the agencies.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/campus_life/">student life</a>
+                        <div class="megamenu">
+                           <div class="menu-shift">
+                              <div class="mega-container">
+                                 <nav>
+                                    <ul>
+                                       <li>
+                                          <a href="/about_tsu/index.aspx">TSU at a glance</a>
+                                       </li>
+                                       <li>
+                                          <a href="/activities/">student activities</a>
+                                       </li>
+                                       <li>
+                                          <a href="/campus_life/student_services.aspx">student services</a>
+                                       </li>
+                                       <li>
+                                          <a href="/housing/">residence life</a>
+                                       </li>
+                                       <li>
+                                          <a href="/campus_life/lifeinnashville.aspx">life in Nashville</a>
+                                       </li>
+                                       <li>
+                                          <a href="/about_tsu/">our history &amp; tradition</a>
+                                       </li>
+                                    </ul>
+                                 </nav>
+                                 <div>
+                                    <p>Tennessee State University students go by the motto: “Think. Work. Serve.” But we also realize a little fun should be part of the collegiate experience to create a holistic approach to learning. With a variety of social, professional and civic clubs for students to participate in, there are many opportunities for you to share your time and talents and enjoy connecting with your fellow students to create the work-life balance needed for success in college and beyond.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="https://www.tnstate.edu/foundation/ways.aspx">Support TSU</a>
+                        <div class="megamenu">
+                           <div class="menu-shift">
+                              <div class="mega-container">
+                                 <nav>
+                                    <ul>
+                                       <li>
+                                          <a href="/foundation/">TSU Foundation</a>
+                                       </li>
+                                       <li>
+                                          <a href="/alumni/">Alumni Relations</a>
+                                       </li>
+                                    </ul>
+                                 </nav>
+                                 <div>
+                                    <p>Tennessee State University counts on the generous contributions of alumni and friends to fulfill our mission of providing a top-notch, affordable education to the best and brightest students. Every gift makes a difference.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/research/">research</a>
+                        <div class="megamenu">
+                           <div class="menu-shift">
+                              <div class="mega-container">
+                                 <nav>
+                                    <ul>
+                                       <li>
+                                          <a href="/research/">Research at TSU</a>
+                                       </li>
+                                       <li>
+                                          <a href="/research-1/support/funding.aspx">Funding Opportunities</a>
+                                       </li>
+                                       <li>
+                                          <a href="/research-1/about/designation.aspx">research classification</a>
+                                       </li>
+                                       <li>
+                                          <a href="/research-1/about/coe.aspx">centers of excellence</a>
+                                       </li>
+                                       <li>
+                                          <a href="/researchsymposium/index.aspx">research symposium</a>
+                                       </li>
+                                    </ul>
+                                 </nav>
+                                 <div>
+                                    <p>Tennessee State University is engaging in cutting-edge research to address critical challenges in our society. Our research arm supports faculty and students by taking their ideas from conception to fruition in critical areas such as biotechnology, homeland security and agriculture, to name a few. Our Centers of Excellence encourage collaborative and experimental learning opportunities and help expand the boundaries of science, education and technology.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="https://www.tsutigers.com" target="_blank">athletics</a>
+                        <div class="megamenu">
+                           <div class="menu-shift">
+                              <div class="mega-container">
+                                 <nav>
+                                    <ul>
+                                       <li>
+                                          <a href="https://www.tsutigers.com/" target="_blank">varsity sports</a>
+                                       </li>
+                                       <li>
+                                          <a href="/events/gentry.aspx">facilities</a>
+                                       </li>
+                                       <li>
+                                          <a href="/homecoming/">homecoming</a>
+                                       </li>
+                                       <li>
+                                          <a href="/about_tsu/our_people.aspx#olympics">olympic heritage</a>
+                                       </li>
+                                    </ul>
+                                 </nav>
+                                 <div>
+                                    <p>Tennessee State University Athletics is part of the Ohio Valley Conference (OVC) NCAA Division Ⅰ and offers football, men’s basketball, women’s basketball, track and field, golf, tennis, softball and volleyball. We provide student-athletes with a positive academic and social environment to excel on and off the field. Our mission is to blend physical, emotional and intellectual development into one experience. We not only build winning-teams, but leaders in the classroom, in the community and in your profession of choice.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                  </ul>
+               </nav>
+            </div>
+         </section>
+      </div>
+      <div id="secondaryNav">
+         <section class="secondary-nav">
+            <div class="wrapper">
+               <nav>
+                  <ul>
+                     <li>
+                        <a href="/future/">future students</a>
+                        <div class="megamenu">
+                           <div class="mega-container">
+                              <nav>
+                                 <ul>
+                                    <li>
+                                       <a href="/apply/">Apply</a>
+                                    </li>
+                                    <li>
+                                       <a href="/undergraduate/">Undergraduate Programs</a>
+                                    </li>
+                                    <li>
+                                       <a href="/graduate/">Graduate School</a>
+                                    </li>
+                                    <li>
+                                       <a href="/international/">International Students</a>
+                                    </li>
+                                    <li>
+                                       <a href="/bursar/fees.aspx">Tuition &amp; Costs</a>
+                                    </li>
+                                    <li>
+                                       <a href="/financial_aid/">Financial Aid</a>
+                                    </li>
+                                    <li>
+                                       <a href="/counselor/">Meet Your Counselor</a>
+                                    </li>
+                                    <li>
+                                       <a href="/requestinfo/">Request Undergraduate Information</a>
+                                    </li>
+                                    <li>
+                                       <a href="/visit/">Visiting TSU</a>
+                                    </li>
+                                 </ul>
+                              </nav>
+                              <div>
+                                 <p>Tennessee State University is a world-class university known for academic excellence, incredible students, inspiring faculty, exceptional value and an amazing campus and community. We invite you to learn more about TSU and our academic programs, admissions process, tuition and financial aid, campus visits, student housing and more.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/campus_life/student_services.aspx">current students</a>
+                        <div class="megamenu">
+                           <div class="mega-container">
+                              <nav>
+                                 <ul>
+                                    <li>
+                                       <a href="/academic_programs/academic_calendar.aspx">Academic Calendar</a>
+                                    </li>
+                                    <li>
+                                       <a href="/access/">Access Systems</a>
+                                    </li>
+                                    <li>
+                                       <a href="/bookstore/">Bookstores</a>
+                                    </li>
+                                    <li>
+                                       <a href="/careers/">Career Center</a>
+                                    </li>
+                                    <li>
+                                       <a href="/bursar/fees.aspx">Tuition &amp; Costs</a>
+                                    </li>
+                                    <li>
+                                       <a href="/financial_aid/">Financial Aid</a>
+                                    </li>
+                                    <li>
+                                       <a href="/financial_aid/cpos.aspx">Course Program of Study</a>
+                                    </li>
+                                    <li>
+                                       <a href="/catalog/">Course Catalog</a>
+                                    </li>
+                                    <li>
+                                       <a href="/library/">Library</a>
+                                    </li>
+                                    <li>
+                                       <a href="/records/">Records</a>
+                                    </li>
+                                    <li>
+                                       <a href="/records/registration.aspx">Register for classes</a>
+                                    </li>
+                                    <li>
+                                       <a href="/campus_life/student_services.aspx">Student Services</a>
+                                    </li>
+                                    <li>
+                                       <a href="/helpdesk/">Tech Help Desk</a>
+                                    </li>
+                                 </ul>
+                              </nav>
+                              <div>
+                                 <p>Tennessee State University is dedicated to helping students develop the skills needed for the real world. Our vibrant campus life, leadership opportunities, rigorous academic programs, access to scholarships and student services are just a few of the student services we offer. We are preparing career-ready professionals today for knowledge-based jobs tomorrow. The Tiger legacy continues with you.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/parents/">parents &amp; families</a>
+                        <div class="megamenu">
+                           <div class="mega-container">
+                              <nav>
+                                 <ul>
+                                    <li>
+                                       <a href="/about_tsu/">About TSU</a>
+                                    </li>
+                                    <li>
+                                       <a href="/academiccalendar/">Academic Calendar</a>
+                                    </li>
+                                    <li>
+                                       <a href="/bookstore/">Bookstore</a>
+                                    </li>
+                                    <li>
+                                       <a href="/academic_programs/">Degree Programs</a>
+                                    </li>
+                                    <li>
+                                       <a href="/parents/">Resources</a>
+                                    </li>
+                                    <li>
+                                       <a href="/visit/">Visit the University</a>
+                                    </li>
+                                 </ul>
+                              </nav>
+                              <div>
+                                 <p>TSU loves parents! And we encourage you to stay involved with your Tennessee State University student. We strive to make the transition to college and beyond flow as smoothly as possible for everyone. We'll keep you up-to-date on campus happenings through a monthly eNewsletter, a helpful Parent Guide and through many other programs and events. We're here to help you and your student make the most out of your TSU experience.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/alumni/">alumni</a>
+                        <div class="megamenu">
+                           <div class="mega-container">
+                              <nav>
+                                 <ul>
+                                    <li>
+                                       <a href="/alumni/upcomingevents.aspx">Alumni Events</a>
+                                    </li>
+                                    <li>
+                                       <a href="/alumni/">Alumni News</a>
+                                    </li>
+                                    <li>
+                                       <a href="/alumni/reunions/index.aspx">Class Reunions</a>
+                                    </li>
+                                    <li>
+                                       <a href="/homecoming/">Homecoming</a>
+                                    </li>
+                                    <li>
+                                       <a href="/alumni/distinguishedtigers.aspx">Notable Alumni</a>
+                                    </li>
+                                    <li>
+                                       <a href="/alumni/vintagers/index.aspx">Vintagers</a>
+                                    </li>
+                                 </ul>
+                              </nav>
+                              <div>
+                                 <p>At Tennessee State University, our blood runs blue! We enjoy connecting, socializing and sharing news about the great things our alumni are doing across the globe. From our annual Homecoming celebration to donor events and volunteer activities, TSU alumni always find time to celebrate what it means to be a Big Blue Tiger. We welcome you back to campus anytime to rekindle your most memorable experiences.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/visit/">visitors</a>
+                        <div class="megamenu">
+                           <div class="mega-container">
+                              <nav>
+                                 <ul>
+                                    <li>
+                                       <a href="/about_tsu/">About TSU</a>
+                                    </li>
+                                    <li>
+                                       <a href="/map/">Campus Maps</a>
+                                    </li>
+                                    <li>
+                                       <a href="/visit/">Visit TSU</a>
+                                    </li>
+                                 </ul>
+                              </nav>
+                              <div>
+                                 <p>Welcome to Tennessee State University, located in the heart of Nashville, one of the nation's most progressive cities! Whether you are here for your first visit, planning a campus tour or returning after many years away, TSU welcomes you to enjoy our facilities, hospitality and our unique history and contributions.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                     <li>
+                        <a href="/facultyportal/">faculty &amp; staff</a>
+                        <div class="megamenu">
+                           <div class="mega-container">
+                              <nav>
+                                 <ul>
+                                    <li>
+                                       <a href="/contact_us/calendar.aspx">Calendars</a>
+                                    </li>
+                                    <li>
+                                       <a href="/administration/">Departments</a>
+                                    </li>
+                                    <li>
+                                       <a href="/mediarelations/news.aspx">Share Your News</a>
+                                    </li>
+                                    <li>
+                                       <a href="/access/">Systems Access</a>
+                                    </li>
+                                    <li>
+                                       <a href="/helpdesk/">Tech Help Desk</a>
+                                    </li>
+                                    <li>
+                                       <a href="/email/">Webmail</a>
+                                    </li>
+                                 </ul>
+                              </nav>
+                              <div>
+                                 <p>Tennessee State University is proud to have 1,200 distinguished administrators, faculty and staff members as part of our team. With outstanding reputations for teaching, research and service, these professionals make valuable contributions to our community of scholars and ensure that TSU is a thriving public institution of higher learning. </p>
+                              </div>
+                           </div>
+                        </div>
+                     </li>
+                  </ul>
+               </nav>
+            </div>
+         </section>
+      </div>
+   </header>
+   <div id="mobileheader">
+      <section class="mobile-header">
+         <div class="mobile-logo">
+            <a href="/index.aspx">
+               <img src="/redesign/images/svg/tsulogo.svg"
+                     alt="Tennessee State University"
+                     onerror="this.src='/redesign/images/png/tsulogo.png';this.onerror=null;"/>
+            </a>
+         </div>
+         <nav class="toggle-mobile">
+            <a href="#" class="toggle-menu">
+               <img src="/redesign/images/svg/hamburger.svg"
+                     alt="toggle menu"
+                     onerror="this.src='/redesign/images/png/hamburger.png';this.onerror=null;"/>
+            </a>
+         </nav>
+      </section>
+   </div>
+   <section class="template-content">
+      <div class="hero-image">
+         <picture>
+            <source media="print" srcset="/images/interior4/housing_large.png"/>
+            <source media="(width: 100%)" srcset="/images/interior4/housing_large.png"/>
+            <source media="(min-width: 64.0625em)"
+                     srcset="/images/interior4/housing_large.png"/>
+            <source media="(min-width: 40.0625em)"
+                     srcset="/images/interior4/housing_large.png"/>
+            <img src="/images/interior4/housing_large.png" alt="MainImage Mobile"/>
+         </picture>
+      </div>
+      <div class="wrapper">
+         <div class="left-toggle">
+            <span class="toggle-title">Navigation</span>
+            <a href="#" class="toggle-side">
+               <img src="/redesign/images/svg/hamburger.svg"
+                     alt="side-navigation"
+                     onerror="this.src='/redesign/images/png/hamburger.png';this.onerror=null;"/>
+            </a>
+         </div>
+         <section class="side-nav">
+            <nav>
+               <ul><!-- com.omniupdate.div label="leftNav" 
+									button="707" group="everyone" path="/housing/_leftnav.html" --><!-- ouc:editor csspath="/_resources/editor/department_interior/leftnav.css" cssmenu="/_resources/editor/main.txt" width="1000"/ --><li><a href="/campus_life/student_services.aspx">Student Services</a></li>
+<p><a title="Residence Life" href="/housing/">Residence Life</a></p>
+<p><strong><a href="https://tnstate.starrezhousing.com/StarRezPortalX/InitiateLogin/StarNet.StarRez.AuthProviders.ADFSStudent"><span style="color: #0066cc;">TIGER DEN LOGIN</span></a></strong></p>
+<p><a href="/housing/forms.aspx"><span style="color: #0066cc;">How to Apply&nbsp;</span></a></p>
+<p><a title="Room and Meal Rates" href="/housing/housing-rates.aspx">Rates</a></p>
+<p><a href="/housing/residencehalls.aspx">Residence Halls</a></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><a href="/housing/wilson.aspx">Wilson Hall</a></li>
+<li><a href="/housing/watson.aspx">Watson Hall</a></li>
+<li><a href="/housing/eppse.aspx">Eppse Hall</a></li>
+<li><a href="/housing/boyd.aspx">Boyd Hall</a></li>
+<li><a href="/housing/rudolph.aspx">Rudolph Residence&nbsp;</a></li>
+<li><a href="/housing/hale.aspx">Hale Hall</a></li>
+<li><a href="/housing/nhf.aspx">New Housing Facility</a></li>
+</ul>
+</li>
+</ul>
+<p><a href="/housing/apartments.aspx">Apartments</a></p>
+<p><a href="/housing/housing-date.aspx">Important Dates</a></p>
+<p><a href="/housing/summerschoolhousing.aspx">Summer 2026</a></p>
+<p><a href="/housing/StudentEmployee.aspx">Student Employment&nbsp;</a></p>
+<p><a href="https://tnstate.campusdish.com/en/">Student Meal Plans</a></p>
+<p><a title="Policies &amp; Resources" href="/housing/resourcesreslife.aspx">Policies &amp; Resources</a></p>
+<p><a title="Staff Contact" href="/housing/staff.aspx">Contact Us</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p><!-- /com.omniupdate.div --></ul>
+            </nav>
+         </section>
+         <section class="main-content">
+            <ul id="crumbTrail">
+               <li>
+                  <a href="/">Home</a> &gt; </li>
+               <li>
+                  <a href="/housing/">Housing</a>
+               </li>
+               <li class="lastitem"> &gt; Alternate Housing Options</li>
+            </ul>
+            <h1 class="title"> 
+				<!-- com.omniupdate.div label="title" button="707" group="Everyone" --> 
+				<!-- com.omniupdate.editor csspath="/_resources/editor/department_interior/maincontent.css" toolbar="ForcedStyle" width="950" --> 
+					Alternate Housing Options 
+			<!-- /com.omniupdate.div --> 
+			</h1>
+            <!-- com.omniupdate.div label="maincontent" group="Everyone" button="707" -->
+            <!-- ouc:editor csspath="/_resources/editor/department_interior/maincontent.css" width="950"/ -->
+            <p>
+               <strong>Alternative Housing Options-Off Campus</strong>
+            </p>
+            <p>
+               <span>
+                  <em>Tennessee State University</em> does not require its students to live on campus at any point of their academic career. In recent years, the University has consistently reached capacity of its on-campus facilities, forcing students who have delayed in submitting their housing application to reside elsewhere.  </span>
+               <span>If you find yourself applying late or wish to find off-campus accommodation, feel free to visit the following websites for alternative housing options:</span>
+            </p>
+            <p>
+               <span>
+                  <span style="text-decoration: underline;">Apartment Indexes:</span> </span>
+            </p>
+            <ul>
+               <li>
+                  <a title="Trulia " href="http://www.trulia.com">
+                     <span>www.trulia.com</span>
+                  </a>
+               </li>
+               <li>
+                  <a href="http://www.zillow.com">
+                     <span>www.zillow.com</span>
+                  </a>
+               </li>
+               <li>
+                  <a href="http://www.rent.com/tennessee/tennessee-state-university-apartments">www.rent.com</a>
+               </li>
+               <li>
+                  <span>
+                     <a href="http://www.forrent.com/">www.forrent.com</a>
+                  </span>
+               </li>
+               <li>
+                  <span>
+                     <a href="http://www.apartmentfinder.com/">www.apartmentfinder.com</a>
+                  </span>
+               </li>
+               <li>
+                  <a href="https://www.apartmentlist.com/tn/nashville">www.apartmentlist.com/tn/nashville</a> </li>
+            </ul>
+            <p> <span style="text-decoration: underline;">Airbnb, Flipkey and Vacation Rentals </span>offer monthly rentals/sublets for competitive prices</p>
+            <ul>
+               <li>
+                  <a href="https://www.airbnb.com">https://www.airbnb.com</a>
+               </li>
+               <li>
+                  <a href="https://flipkey.com">https://flipkey.com</a>
+               </li>
+               <li>
+                  <a href="https://vrbo.com">https://vrbo.com</a>
+               </li>
+            </ul>
+            <p>
+               <strong>
+                  <br/>
+               </strong>
+               <em>Please utilize the following zip codes for available leases and rentals closest to the TSU Campus</em>:<br/>The zip code 37209 for TSU Main Campus<br/>The zip code 37203 for TSU’s Avon Williams Off-Campus Instructional Site.<strong>
+                  <br/>
+                  <br/>
+                  <br/>Short Term Accommodation</strong>
+            </p>
+            <p>
+               <span>
+                  <span>For Emergency Housing, please refer to the <a title="Metropolitan Development and Housing Agency"
+                         href="https://www.nashville-mdha.org/community-development-department/homeless-assistance/">Metropolitan Development and Housing Agency website</a>
+                  </span>
+               </span>
+            </p>
+            <p>For Short-Term Accommodation, please refer to this list of <a title="Area Hotels" href="/orientation/List%20of%20Hotels.pdf">Area Hotels</a>. Please inquire with the hotel(s) directly for additional information. </p>
+            <!-- /com.omniupdate.div -->
+            <p>
+               <br/>
+               <br/>
+               <br/>
+               <br/>
+               <div align="right">
+                  <hr/>
+		webpage contact:<br/>Residence Life
+		</div>
+            </p>
+         </section>
+      </div>
+      <div class="clear"> </div>
+   </section>
+   <div id="footer_redesign">
+      <footer>
+         <script type="text/javascript">
+  jQuery(function() {
+    jQuery(‘a[href$=".pdf"]’).click(function(){
+      var pdf=jQuery(this).attr(‘href’);
+      _gaq.push([‘_trackEvent’, ‘pdf’, ‘download’, pdf]);
+    });
+    jQuery(‘a[href^="mailto:"]’).click(function(){
+      var mailto=jQuery(this).attr(‘href’);
+      _gaq.push([‘_trackEvent’, ‘contact’, ‘mailto’, mailto]);
+    });
+    jQuery(‘a[href^="tel:"]’).click(function(){
+      var ctc=jQuery(this).attr(‘href’);
+      _gaq.push([‘_trackEvent’, ‘contact’, ‘click-to-call’, ctc]);
+    });
+  });
+</script>
+         <script type="text/javascript">
+  jQuery(function() {
+    jQuery(‘a[href$=".pdf"]’).click(function(){
+      var pdf=jQuery(this).attr(‘href’);
+      ga(‘send’,’event’, ‘pdf’, ‘download’, pdf);
+    });
+    jQuery(‘a[href^="mailto:"]’).click(function(){
+      var mailto=jQuery(this).attr(‘href’);
+      ga(‘send’,’event’, ‘contact’, ‘mailto’, mailto);
+    });
+    jQuery(‘a[href^="tel:"]’).click(function(){
+      var ctc=jQuery(this).attr(‘href’);
+      ga(‘send’,’event’, ‘contact’, ‘click-to-call’, ctc);
+    });
+  });
+</script>
+         <script type="text/javascript">
+  jQuery(function() {
+    jQuery(‘a[href$=".pdf"]’).click(function(){
+      var pdf=jQuery(this).attr(‘href’);
+      gtag(‘event’, ‘download’, { event_category: ‘download’, event_action: ‘pdf’, event_label: pdf});
+    });
+    jQuery(‘a[href^="mailto:"]’).click(function(){
+      var mailto=jQuery(this).attr(‘href’);
+      gtag(‘event’, ‘contact’, { event_category: ‘contact’, event_action: ‘mailto’, event_label: mailto});
+    });
+    jQuery(‘a[href^="tel:"]’).click(function(){
+      var ctc=jQuery(this).attr(‘href’);
+      gtag(‘event’, ‘contact’, { event_category: ‘contact’, event_action: ‘click-to-call’, event_label: ctc});
+    });
+  });
+</script>
+         <div class="wrapper">
+            <section class="footer-sitemap">
+               <h1>Useful <span class="emphasis">Links</span>
+               </h1>
+               <ul>
+                  <li>
+                     <a href="/about_tsu/">about TSU</a>
+                  </li>
+                  <li>
+                     <a href="/police/">campus safety</a>
+                  </li>
+                  <li>
+                     <a href="/events/">events management</a>
+                  </li>
+                  <li>
+                     <a href="/president/mission.aspx">mission &amp; leadership</a>
+                  </li>
+                  <li>
+                     <a href="/academic_affairs/bkp_old/achievement-data.aspx">student achievement</a>
+                  </li>
+                  <li>
+                     <a href="/mediation/complaints.aspx">student incident form</a>
+                  </li>
+                  <li>
+                     <a href="/financial_aid/costofattendance.aspx">cost of attendance</a>
+                  </li>
+                  <li> </li>
+                  <li>
+                     <a href="/calendars/">calendars</a>
+                  </li>
+                  <li>
+                     <a href="/contact_us/">contact us</a>
+                  </li>
+                  <li>
+                     <a href="/map/">directions</a>
+                  </li>
+                  <li>
+                     <a href="/hr/employment.aspx" target="_blank">work @ TSU</a>
+                  </li>
+               </ul>
+               <ul/>
+            </section>
+            <section class="footer-social">
+               <h1>
+                  <a href="/socialmedia/">
+                     <font color="#0053A0">social <span class="emphasis">media</span>
+                     </font>
+                  </a>
+               </h1>
+               <ul>
+                  <li>
+                     <a href="/facebook/" target="_blank">
+                        <img src="/redesign/images/svg/facebook.svg"
+                              alt="Tennessee State University Facebook"
+                              onerror="this.src='/redesign/images/social/facebook.gif';this.onerror=null;"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="/instagram/" target="_blank">
+                        <img src="/redesign/images/svg/instagram.svg"
+                              alt="Tennessee State University Instagram"
+                              onerror="this.src='/redesign/images/social/instagram.gif';this.onerror=null;"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="/twitter/" target="_blank">
+                        <img src="/redesign/images/svg/twitter.svg"
+                              alt="Tennessee State University Twitter"
+                              onerror="this.src='/redesign/images/social/twitter.gif';this.onerror=null;"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="/flickr/" target="_blank">
+                        <img src="/redesign/images/svg/flickr.svg"
+                              alt="Tennessee State University Flickr"
+                              onerror="this.src='/redesign/images/social/flickr.gif';this.onerror=null;"/>
+                     </a>
+                  </li>
+                  <li>
+                     <a href="/youtube/" target="_blank">
+                        <img src="/redesign/images/svg/youtube.svg"
+                              alt="Tennessee State University YouTube"
+                              onerror="this.src='/redesign/images/social/youtube.gif';this.onerror=null;"/>
+                     </a>
+                  </li>
+               </ul>
+               <p> </p>
+               <p> </p>
+               <center>
+                  <img alt="Excellence is our Habit"
+                        src="/images/excellence.png"
+                        width="300"/>
+               </center>
+            </section>
+            <section class="footer-contact">
+               <div class="left-half">
+                  <div class="logo">
+                     <img src="/redesign/images/svg/tsulogo.svg"
+                           alt="Tennessee State University Logo"
+                           onerror="this.src='/redesign/images/png/tsulogo.png';this.onerror=null;"/>
+                  </div>
+                  <address>
+                     <a href="https://www.google.com/maps/place/3500+John+A+Merritt+Blvd,+Tennessee+State+University,+Nashville,+TN+37209/@36.1661921,-86.8294812,17z/data=!3m1!4b1!4m2!3m1!1s0x8864612e29e63677:0x84d69604f074263b">3500 John A. Merritt Boulevard</a>
+                     <br/>
+							Nashville, TN 37209<br/>
+                     <a href="tel://1-615-963-5000">Tel: (615) 963-5000</a>
+                     <br/>
+                     <br/>
+                  </address>
+               </div>
+               <div class="right-half">
+                  <div class="eo-statement">
+                     <p>
+                        <hr/>
+                        <a href="/research/index.aspx">Carnegie "High Research" University (R2)</a>
+                     </p>
+                     <p>
+                        <a href="https://www.tn.gov/thec/bureaus/academic-affairs-and-student-success/veterans-education/redirect-veterans-education/approved-vets-campuses.html">Certified "Vets Campus"</a> | <a href="https://www.gijobs.com/2017-military-friendly-schools-and-employers/">Military Friendly</a>
+                     </p>
+                  </div>
+                  <div class="bugs">
+                     <ul>
+                        <li>
+                           <a href="/elearn-rodp/" target="_blank">
+                              <img src="/images/rocc.gif"
+                                    title="Online Courses"
+                                    alt="Regents Online Campus Collaborative"/>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/transfer/">
+                              <img src="/images/transferpathway.gif"
+                                    title="Transfer to TSU"
+                                    alt="TN Schools -Transfer Pathway"/>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="/redflag/" target="_blank">
+                              <img src="/images/redflag2.gif"
+                                    title="Report Suspicious Behavior"
+                                    alt="Report Suspicious Behavior"/>
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </section>
+            <script async="async"
+                     src="https://tag.simpli.fi/sifitag/d11738a0-62fc-0138-71b7-067f653fa718">//</script>
+         </div>
+         <section class="footer-heel">
+				
+				
+				© 2025 Tennessee State University. All Rights Reserved. <a href="/policies/">Policies</a> | <!-- com.omniupdate.ob --><a href="https://omniupdate.tnstate.edu/11/?skin=oucampus&amp;account=main&amp;site=main&amp;action=de&amp;path=/housing/alternatehousing.pcf">Last Modified 4/27/26</a><!-- /com.omniupdate.ob --></section>
+      </footer>
+      <div class="clear"/>
+   </div>
+   <script src="/redesign/scripts/mobiletoggle.js">//</script>
+   <script src="/redesign/scripts/testing.js">//</script>
+   <script src="/redesign/scripts/interiortoggle.js">//</script>
+   <script type="text/javascript" src="/scripts/accordion.js">//</script>
+</body></html>
